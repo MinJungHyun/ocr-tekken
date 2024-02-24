@@ -1,0 +1,31 @@
+{
+	"command_img": {
+		"text": "로 리\n",
+		"img": [
+			{
+				"x": 5,
+				"y": 3,
+				"ratio": "0.973640",
+				"command_img": "apk"
+			},
+			{
+				"x": 42,
+				"y": 4,
+				"ratio": "0.991593",
+				"command_img": "arrow_4"
+			},
+			{
+				"x": 77,
+				"y": 4,
+				"ratio": "0.956957",
+				"command_img": "arrow_6"
+			},
+			{
+				"x": 108,
+				"y": 3,
+				"ratio": "0.916982",
+				"command_img": "ap"
+			}
+		]
+	}
+}

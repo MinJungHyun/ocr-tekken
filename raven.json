@@ -1,0 +1,1634 @@
+[
+	{
+		"no": {
+			"number": "7"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 5,
+					"y": 3,
+					"ratio": "0.914717",
+					"command": "lp"
+				},
+				{
+					"x": 40,
+					"y": 3,
+					"ratio": "0.917097",
+					"command": "rp"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.915017",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "LeftRightComboBlackHole"
+		}
+	},
+	{
+		"no": {
+			"number": "18"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": []
+		},
+		"name": {
+			"eng": "RightStraightLeftLowKick"
+		}
+	},
+	{
+		"no": {
+			"number": "19"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": []
+		},
+		"name": {
+			"eng": "PKCombo"
+		}
+	},
+	{
+		"no": {
+			"number": "20"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.904302",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "ValkyrieLanceCombo"
+		}
+	},
+	{
+		"no": {
+			"number": "21"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": []
+		},
+		"name": {
+			"eng": "BrockenConnect"
+		}
+	},
+	{
+		"no": {
+			"number": "22"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 16,
+					"y": 4,
+					"ratio": "0.955404",
+					"command": "bracketL"
+				},
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.970697",
+					"command": "lk"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.969290",
+					"command": "rk"
+				},
+				{
+					"x": 111,
+					"y": 4,
+					"ratio": "0.997415",
+					"command": "bracketR"
+				}
+			]
+		},
+		"name": {
+			"eng": "Chariot"
+		}
+	},
+	{
+		"no": {
+			"number": "23"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 16,
+					"y": 4,
+					"ratio": "0.949912",
+					"command": "bracketL"
+				},
+				{
+					"x": 40,
+					"y": 3,
+					"ratio": "0.908923",
+					"command": "rk"
+				},
+				{
+					"x": 74,
+					"y": 3,
+					"ratio": "0.930158",
+					"command": "lk"
+				},
+				{
+					"x": 144,
+					"y": 3,
+					"ratio": "0.946760",
+					"command": "lp"
+				}
+			]
+		},
+		"name": {
+			"eng": "HydraBiteLow"
+		}
+	},
+	{
+		"no": {
+			"number": ""
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 16,
+					"y": 4,
+					"ratio": "0.949901",
+					"command": "bracketL"
+				},
+				{
+					"x": 74,
+					"y": 3,
+					"ratio": "0.907534",
+					"command": "lk"
+				},
+				{
+					"x": 144,
+					"y": 3,
+					"ratio": "0.911485",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "HydraBiteHigh"
+		}
+	},
+	{
+		"no": {
+			"number": "95"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 16,
+					"y": 4,
+					"ratio": "0.949814",
+					"command": "bracketL"
+				},
+				{
+					"x": 74,
+					"y": 3,
+					"ratio": "0.920673",
+					"command": "lk"
+				},
+				{
+					"x": 145,
+					"y": 3,
+					"ratio": "0.901722",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "HydraBiteMid"
+		}
+	},
+	{
+		"no": {
+			"number": "6"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 4,
+					"y": 3,
+					"ratio": "0.979930",
+					"command": "ap"
+				}
+			]
+		},
+		"name": {
+			"eng": "Crusader"
+		}
+	},
+	{
+		"no": {
+			"number": ""
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": []
+		},
+		"name": {
+			"eng": "Soulzone"
+		}
+	},
+	{
+		"no": {
+			"number": "3"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 7,
+					"y": 4,
+					"ratio": "0.982736",
+					"command": "arrow_6"
+				}
+			]
+		},
+		"name": {
+			"eng": "Tartaros"
+		}
+	},
+	{
+		"no": {
+			"number": ""
+		},
+		"command": {
+			"kor": "마을 르\n",
+			"searchTemplate": [
+				{
+					"x": 7,
+					"y": 4,
+					"ratio": "0.954739",
+					"command": "arrow_6"
+				},
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.937468",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "CirclingWinds"
+		}
+	},
+	{
+		"no": {
+			"number": "30"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 7,
+					"y": 4,
+					"ratio": "0.969729",
+					"command": "arrow_6"
+				},
+				{
+					"x": 40,
+					"y": 3,
+					"ratio": "0.907554",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "LanceKick"
+		}
+	},
+	{
+		"no": {
+			"number": "31"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 7,
+					"y": 4,
+					"ratio": "0.929405",
+					"command": "arrow_6"
+				},
+				{
+					"x": 38,
+					"y": 3,
+					"ratio": "0.903961",
+					"command": "ap"
+				}
+			]
+		},
+		"name": {
+			"eng": "MinosTyphoon"
+		}
+	},
+	{
+		"no": {
+			"number": "32"
+		},
+		"command": {
+			"kor": "혹은 가드 시\n\n미|\n",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 7,
+					"ratio": "0.991166",
+					"command": "arrow_3"
+				},
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.971668",
+					"command": "lp"
+				},
+				{
+					"x": 233,
+					"y": 3,
+					"ratio": "0.903597",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "BodyBlowPhantomMace"
+		}
+	},
+	{
+		"no": {
+			"number": "33"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 7,
+					"ratio": "0.954812",
+					"command": "arrow_3"
+				}
+			]
+		},
+		"name": {
+			"eng": "MeatHook"
+		}
+	},
+	{
+		"no": {
+			"number": "34"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 7,
+					"ratio": "0.967677",
+					"command": "arrow_3"
+				}
+			]
+		},
+		"name": {
+			"eng": "BoltStunner"
+		}
+	},
+	{
+		"no": {
+			"number": "35"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 7,
+					"ratio": "0.968629",
+					"command": "arrow_3"
+				},
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.917220",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "ShadowSnapKick"
+		}
+	},
+	{
+		"no": {
+			"number": "36"
+		},
+		"command": {
+			"kor": "원\n",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 7,
+					"ratio": "0.967026",
+					"command": "arrow_3"
+				},
+				{
+					"x": 40,
+					"y": 3,
+					"ratio": "0.909541",
+					"command": "rk"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.916071",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "PendulumKick"
+		}
+	},
+	{
+		"no": {
+			"number": "37"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 7,
+					"ratio": "0.973569",
+					"command": "arrow_3"
+				},
+				{
+					"x": 40,
+					"y": 3,
+					"ratio": "0.904049",
+					"command": "rk"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.914112",
+					"command": "rk"
+				},
+				{
+					"x": 109,
+					"y": 3,
+					"ratio": "0.930205",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "PendulumShadow"
+		}
+	},
+	{
+		"no": {
+			"number": "38"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 6,
+					"y": 4,
+					"ratio": "0.909552",
+					"command": "arrow_2"
+				}
+			]
+		},
+		"name": {
+			"eng": "StingingLow"
+		}
+	},
+	{
+		"no": {
+			"number": "3"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 6,
+					"y": 4,
+					"ratio": "0.916381",
+					"command": "arrow_2"
+				},
+				{
+					"x": 40,
+					"y": 3,
+					"ratio": "0.902775",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "BasiliskFang"
+		}
+	},
+	{
+		"no": {
+			"number": ""
+		},
+		"command": {
+			"kor": "음\n\n혹은 가드 시 ^\n",
+			"searchTemplate": [
+				{
+					"x": 40,
+					"y": 3,
+					"ratio": "0.901417",
+					"command": "rp"
+				},
+				{
+					"x": 74,
+					"y": 3,
+					"ratio": "0.929471",
+					"command": "lp"
+				},
+				{
+					"x": 267,
+					"y": 3,
+					"ratio": "0.921289",
+					"command": "lp"
+				}
+			]
+		},
+		"name": {
+			"eng": "AssassinsStingPhantomJa"
+		}
+	},
+	{
+		"no": {
+			"number": "41"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.918962",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "KillerBee"
+		}
+	},
+	{
+		"no": {
+			"number": ""
+		},
+		"command": {
+			"kor": "수서\n",
+			"searchTemplate": [
+				{
+					"x": 40,
+					"y": 3,
+					"ratio": "0.901426",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "ShinobiCyclone"
+		}
+	},
+	{
+		"no": {
+			"number": "43"
+		},
+		"command": {
+			"kor": "5\n",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 4,
+					"ratio": "0.936700",
+					"command": "arrow_4"
+				},
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.913152",
+					"command": "lp"
+				}
+			]
+		},
+		"name": {
+			"eng": "ElbowStrike"
+		}
+	},
+	{
+		"no": {
+			"number": "4"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 4,
+					"ratio": "0.938206",
+					"command": "arrow_4"
+				},
+				{
+					"x": 109,
+					"y": 3,
+					"ratio": "0.905709",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "UnicornsTail"
+		}
+	},
+	{
+		"no": {
+			"number": ""
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 4,
+					"ratio": "0.917437",
+					"command": "arrow_4"
+				},
+				{
+					"x": 108,
+					"y": 3,
+					"ratio": "0.938653",
+					"command": "ap"
+				},
+				{
+					"x": 109,
+					"y": 3,
+					"ratio": "0.901804",
+					"command": "ap"
+				}
+			]
+		},
+		"name": {
+			"eng": "DeadlyTalon"
+		}
+	},
+	{
+		"no": {
+			"number": ""
+		},
+		"command": {
+			"kor": "^ 히트 혹은 가드 시\n",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 4,
+					"ratio": "0.937368",
+					"command": "arrow_4"
+				}
+			]
+		},
+		"name": {
+			"eng": "MissingWormPhantomHalb"
+		}
+	},
+	{
+		"no": {
+			"number": ""
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 4,
+					"ratio": "0.939352",
+					"command": "arrow_4"
+				},
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.916984",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "HadesHeel"
+		}
+	},
+	{
+		"no": {
+			"number": ""
+		},
+		"command": {
+			"kor": "수아\n",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 4,
+					"ratio": "0.935524",
+					"command": "arrow_4"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.909704",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "SkullSmasher"
+		}
+	},
+	{
+		"no": {
+			"number": "4"
+		},
+		"command": {
+			"kor": "소데\n",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 4,
+					"ratio": "0.948033",
+					"command": "arrow_4"
+				}
+			]
+		},
+		"name": {
+			"eng": "SkullSmasherFeint"
+		}
+	},
+	{
+		"no": {
+			"number": "60"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 4,
+					"ratio": "0.938277",
+					"command": "arrow_4"
+				},
+				{
+					"x": 180,
+					"y": 3,
+					"ratio": "0.930587",
+					"command": "ak"
+				}
+			]
+		},
+		"name": {
+			"eng": "SkullSpin"
+		}
+	},
+	{
+		"no": {
+			"number": "51"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 4,
+					"ratio": "0.945295",
+					"command": "arrow_4"
+				},
+				{
+					"x": 38,
+					"y": 3,
+					"ratio": "0.927604",
+					"command": "ap"
+				},
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.916530",
+					"command": "ap"
+				}
+			]
+		},
+		"name": {
+			"eng": "AlternatingSmash"
+		}
+	},
+	{
+		"no": {
+			"number": "52"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 4,
+					"ratio": "0.938964",
+					"command": "arrow_4"
+				},
+				{
+					"x": 40,
+					"y": 3,
+					"ratio": "0.922672",
+					"command": "ak"
+				}
+			]
+		},
+		"name": {
+			"eng": "Labyrinth"
+		}
+	},
+	{
+		"no": {
+			"number": "53"
+		},
+		"command": {
+			"kor": "8 오소\n",
+			"searchTemplate": [
+				{
+					"x": 9,
+					"y": 7,
+					"ratio": "0.956164",
+					"command": "arrow_7"
+				},
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.932890",
+					"command": "lp"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.909166",
+					"command": "rp"
+				}
+			]
+		},
+		"name": {
+			"eng": "GateKeeper"
+		}
+	},
+	{
+		"no": {
+			"number": "54"
+		},
+		"command": {
+			"kor": "으 소르\n내       ㆍ\n0 6\n",
+			"searchTemplate": [
+				{
+					"x": 74,
+					"y": 3,
+					"ratio": "0.914173",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "DeathbringerLow"
+		}
+	},
+	{
+		"no": {
+			"number": "55"
+		},
+		"command": {
+			"kor": "소론 헝 도 [저\n",
+			"searchTemplate": [
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.906991",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "DeathbringerLowShadow"
+		}
+	},
+	{
+		"no": {
+			"number": "56"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 6,
+					"ratio": "0.976012",
+					"command": "arrow_9"
+				},
+				{
+					"x": 39,
+					"y": 3,
+					"ratio": "0.910980",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "ShadowScythe"
+		}
+	},
+	{
+		"no": {
+			"number": "57"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 6,
+					"ratio": "0.952001",
+					"command": "arrow_9"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.910221",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "Stormbringer"
+		}
+	},
+	{
+		"no": {
+			"number": "58"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 6,
+					"ratio": "0.974612",
+					"command": "arrow_9"
+				},
+				{
+					"x": 40,
+					"y": 3,
+					"ratio": "0.909068",
+					"command": "ak"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.913976",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "Chakram"
+		}
+	},
+	{
+		"no": {
+			"number": "59"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 6,
+					"ratio": "0.951724",
+					"command": "arrow_9"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.915688",
+					"command": "ak"
+				}
+			]
+		},
+		"name": {
+			"eng": "SpinningChakram"
+		}
+	},
+	{
+		"no": {
+			"number": "60"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 6,
+					"ratio": "0.958557",
+					"command": "arrow_9"
+				}
+			]
+		},
+		"name": {
+			"eng": "DelayedRisingToeKick"
+		}
+	},
+	{
+		"no": {
+			"number": ""
+		},
+		"command": {
+			"kor": "우로\n",
+			"searchTemplate": [
+				{
+					"x": 7,
+					"y": 4,
+					"ratio": "0.955474",
+					"command": "arrow_6"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.913155",
+					"command": "rp"
+				}
+			]
+		},
+		"name": {
+			"eng": "ShadowSpear"
+		}
+	},
+	{
+		"no": {
+			"number": "62"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 7,
+					"y": 4,
+					"ratio": "0.991354",
+					"command": "arrow_6"
+				},
+				{
+					"x": 40,
+					"y": 4,
+					"ratio": "0.987137",
+					"command": "arrow_6bold"
+				},
+				{
+					"x": 74,
+					"y": 3,
+					"ratio": "0.913015",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "SuddenStrike"
+		}
+	},
+	{
+		"no": {
+			"number": "63"
+		},
+		"command": {
+			"kor": "다\nㅠ\n",
+			"searchTemplate": [
+				{
+					"x": 7,
+					"y": 4,
+					"ratio": "0.972370",
+					"command": "arrow_6"
+				},
+				{
+					"x": 40,
+					"y": 4,
+					"ratio": "0.950137",
+					"command": "arrow_6bold"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.910909",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "IronMaul"
+		}
+	},
+	{
+		"no": {
+			"number": "64"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 7,
+					"y": 4,
+					"ratio": "0.982597",
+					"command": "arrow_6"
+				},
+				{
+					"x": 42,
+					"y": 4,
+					"ratio": "0.947150",
+					"command": "arrow_6"
+				},
+				{
+					"x": 75,
+					"y": 4,
+					"ratio": "0.970108",
+					"command": "arrow_6bold"
+				},
+				{
+					"x": 109,
+					"y": 3,
+					"ratio": "0.937226",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "TyphonFang"
+		}
+	},
+	{
+		"no": {
+			"number": "65"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 8,
+					"y": 4,
+					"ratio": "0.940572",
+					"command": "arrow_4"
+				}
+			]
+		},
+		"name": {
+			"eng": "WarHound"
+		}
+	},
+	{
+		"no": {
+			"number": "66"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 9,
+					"y": 7,
+					"ratio": "0.956198",
+					"command": "arrow_7"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.965711",
+					"command": "rp"
+				},
+				{
+					"x": 110,
+					"y": 3,
+					"ratio": "0.912945",
+					"command": "rp"
+				},
+				{
+					"x": 180,
+					"y": 3,
+					"ratio": "0.920131",
+					"command": "rk"
+				},
+				{
+					"x": 352,
+					"y": 3,
+					"ratio": "0.917955",
+					"command": "ap"
+				},
+				{
+					"x": 353,
+					"y": 3,
+					"ratio": "0.905009",
+					"command": "ap"
+				}
+			]
+		},
+		"name": {
+			"eng": "HitCombo"
+		}
+	},
+	{
+		"no": {
+			"number": "67"
+		},
+		"command": {
+			"kor": "<\n",
+			"searchTemplate": [
+				{
+					"x": 9,
+					"y": 7,
+					"ratio": "0.993246",
+					"command": "arrow_7"
+				},
+				{
+					"x": 41,
+					"y": 6,
+					"ratio": "0.932084",
+					"command": "arrow_4bold"
+				},
+				{
+					"x": 75,
+					"y": 3,
+					"ratio": "0.974934",
+					"command": "ak"
+				}
+			]
+		},
+		"name": {
+			"eng": "PandoraSpin"
+		}
+	},
+	{
+		"no": {
+			"number": "68"
+		},
+		"command": {
+			"kor": "",
+			"searchTemplate": [
+				{
+					"x": 5,
+					"y": 3,
+					"ratio": "0.986744",
+					"command": "apk"
+				}
+			]
+		},
+		"name": {
+			"eng": "KiCharge"
+		}
+	},
+	{
+		"no": {
+			"number": "69"
+		},
+		"command": {
+			"kor": "오수 *\n",
+			"searchTemplate": [
+				{
+					"x": 5,
+					"y": 3,
+					"ratio": "0.970642",
+					"command": "apk"
+				},
+				{
+					"x": 42,
+					"y": 4,
+					"ratio": "0.990932",
+					"command": "arrow_4"
+				},
+				{
+					"x": 77,
+					"y": 4,
+					"ratio": "0.940323",
+					"command": "arrow_6"
+				},
+				{
+					"x": 108,
+					"y": 3,
+					"ratio": "0.912090",
+					"command": "ap"
+				}
+			]
+		},
+		"name": {
+			"eng": "DeadEnd"
+		}
+	},
+	{
+		"no": {
+			"number": "70"
+		},
+		"command": {
+			"kor": "일어나며\n",
+			"searchTemplate": []
+		},
+		"name": {
+			"eng": "RisingUppercut"
+		}
+	},
+	{
+		"no": {
+			"number": "71"
+		},
+		"command": {
+			"kor": "일어나며\n",
+			"searchTemplate": []
+		},
+		"name": {
+			"eng": "JackknifeElbow"
+		}
+	},
+	{
+		"no": {
+			"number": "72"
+		},
+		"command": {
+			"kor": "|트록은가드시\n\n아\n10\n차\n\n일어나며 -\n",
+			"searchTemplate": [
+				{
+					"x": 281,
+					"y": 3,
+					"ratio": "0.901180",
+					"command": "rp"
+				}
+			]
+		},
+		"name": {
+			"eng": "TridentKickPhantomHalber"
+		}
+	},
+	{
+		"no": {
+			"number": "73"
+		},
+		"command": {
+			"kor": "일어나며\n",
+			"searchTemplate": []
+		},
+		"name": {
+			"eng": "ShadowSnapKick"
+		}
+	},
+	{
+		"no": {
+			"number": "74"
+		},
+		"command": {
+			"kor": "일어나며 .^\n",
+			"searchTemplate": [
+				{
+					"x": 88,
+					"y": 3,
+					"ratio": "0.903792",
+					"command": "apk"
+				}
+			]
+		},
+		"name": {
+			"eng": "SpinningMiddleKick"
+		}
+	},
+	{
+		"no": {
+			"number": "75"
+		},
+		"command": {
+			"kor": "태에서\n\n},\n\n0\n기\n새\n|\n",
+			"searchTemplate": [
+				{
+					"x": 179,
+					"y": 7,
+					"ratio": "0.970006",
+					"command": "arrow_3"
+				}
+			]
+		},
+		"name": {
+			"eng": "AquaSpider"
+		}
+	},
+	{
+		"no": {
+			"number": "76"
+		},
+		"command": {
+			"kor": "태에서\n\n}:\n\n0\n기\n자\n|\n",
+			"searchTemplate": [
+				{
+					"x": 179,
+					"y": 7,
+					"ratio": "0.975946",
+					"command": "arrow_3"
+				},
+				{
+					"x": 211,
+					"y": 3,
+					"ratio": "0.906540",
+					"command": "ak"
+				}
+			]
+		},
+		"name": {
+			"eng": "TornadoDestruction"
+		}
+	},
+	{
+		"no": {
+			"number": "7"
+		},
+		"command": {
+			"kor": "태에서\n\n}:\n\n0\n기\n자\n|\n",
+			"searchTemplate": [
+				{
+					"x": 179,
+					"y": 7,
+					"ratio": "0.971109",
+					"command": "arrow_3"
+				},
+				{
+					"x": 211,
+					"y": 4,
+					"ratio": "0.990213",
+					"command": "arrow_2"
+				},
+				{
+					"x": 248,
+					"y": 6,
+					"ratio": "0.975706",
+					"command": "arrow_3bold"
+				}
+			]
+		},
+		"name": {
+			"eng": "CrouchStep"
+		}
+	},
+	{
+		"no": {
+			"number": "78"
+		},
+		"command": {
+			"kor": "을 보일 때\n\n400\n\n상대에게\n",
+			"searchTemplate": [
+				{
+					"x": 200,
+					"y": 3,
+					"ratio": "0.903833",
+					"command": "lp"
+				}
+			]
+		},
+		"name": {
+			"eng": "BlindLance"
+		}
+	},
+	{
+		"no": {
+			"number": "79"
+		},
+		"command": {
+			"kor": "을보일때\n\n00\n\n상대에게\n",
+			"searchTemplate": [
+				{
+					"x": 234,
+					"y": 3,
+					"ratio": "0.923181",
+					"command": "lp"
+				}
+			]
+		},
+		"name": {
+			"eng": "BackfistStraight"
+		}
+	},
+	{
+		"no": {
+			"number": ""
+		},
+		"command": {
+			"kor": "「괴\n\n}대에\n게 등을\n|등을보일때\n히트 혹은\n혹은 가드\n드시\n\n10\n",
+			"searchTemplate": [
+				{
+					"x": 235,
+					"y": 3,
+					"ratio": "0.910492",
+					"command": "rp"
+				}
+			]
+		},
+		"name": {
+			"eng": "BlindingKnifePhantomJave"
+		}
+	},
+	{
+		"no": {
+			"number": "81"
+		},
+		"command": {
+			"kor": "을 보일때 ㆍ\n\n비0\n\n상대에게\n",
+			"searchTemplate": [
+				{
+					"x": 235,
+					"y": 3,
+					"ratio": "0.902934",
+					"command": "rk"
+				},
+				{
+					"x": 269,
+					"y": 3,
+					"ratio": "0.922275",
+					"command": "lk"
+				}
+			]
+		},
+		"name": {
+			"eng": "CrescentMirage"
+		}
+	},
+	{
+		"no": {
+			"number": "82"
+		},
+		"command": {
+			"kor": "을 보일때 ㆍ\n\n비0\n\n상대에게\n",
+			"searchTemplate": [
+				{
+					"x": 235,
+					"y": 3,
+					"ratio": "0.911449",
+					"command": "rk"
+				},
+				{
+					"x": 270,
+					"y": 3,
+					"ratio": "0.902967",
+					"command": "rk"
+				}
+			]
+		},
+		"name": {
+			"eng": "Fafnir"
+		}
+	},
+	{
+		"no": {
+			"number": "83"
+		},
+		"command": {
+			"kor": "을 보일 때\n\n비0\n\n상대에게\n",
+			"searchTemplate": []
+		},
+		"name": {
+			"eng": "ChronosLathe"
+		}
+	},
+	{
+		"no": {
+			"number": "4"
+		},
+		"command": {
+			"kor": "을보일때\n\n비0\n\n상대에게\n",
+			"searchTemplate": [
+				{
+					"x": 199,
+					"y": 3,
+					"ratio": "0.938248",
+					"command": "ap"
+				}
+			]
+		},
+		"name": {
+			"eng": "Crusader"
+		}
+	}
+]

@@ -1,3 +1,5 @@
 test_image/
 .ipynb_checkpoints/
 *.jpg
+temp/
+__pycache__/

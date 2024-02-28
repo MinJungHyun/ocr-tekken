@@ -1,0 +1,2367 @@
+[
+	{
+		"no": "100",
+		"cmdStr": "110781도중\n",
+		"name": "ShinSlicer",
+		"cmdImg": [
+			{
+				"x": 117,
+				"y": 6,
+				"ratio": "0.963173",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "101",
+		"cmdStr": "110781도중\n",
+		"name": "PoisonTouch",
+		"cmdImg": [
+			{
+				"x": 116,
+				"y": 6,
+				"ratio": "0.991800",
+				"cmd": "ap"
+			}
+		]
+	},
+	{
+		"no": "102",
+		"cmdStr": "110781도중\n",
+		"name": "SilverSlash",
+		"cmdImg": [
+			{
+				"x": 151,
+				"y": 6,
+				"ratio": "0.979512",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "103",
+		"cmdStr": "10781도중\n",
+		"name": "SilverCircle",
+		"cmdImg": [
+			{
+				"x": 152,
+				"y": 6,
+				"ratio": "0.978230",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "104",
+		"cmdStr": "상대에게 접근하여 “\n",
+		"name": "ForearmDrop",
+		"cmdImg": []
+	},
+	{
+		"no": "105",
+		"cmdStr": "상대에게접근하여 “^\n",
+		"name": "AxleThrow",
+		"cmdImg": []
+	},
+	{
+		"no": "106",
+		"cmdStr": "",
+		"name": "LeeHarassment",
+		"cmdImg": [
+			{
+				"x": 314,
+				"y": 14,
+				"ratio": "0.996124",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 402,
+				"y": 13,
+				"ratio": "0.996859",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "107",
+		"cmdStr": "",
+		"name": "LeeStunner",
+		"cmdImg": [
+			{
+				"x": 298,
+				"y": 6,
+				"ratio": "0.903530",
+				"cmd": "lk"
+			},
+			{
+				"x": 335,
+				"y": 14,
+				"ratio": "0.996702",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 423,
+				"y": 13,
+				"ratio": "0.997164",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "108",
+		"cmdStr": "상대의 상대의 뒤에서 접\n",
+		"name": "FaceCrusher",
+		"cmdImg": [
+			{
+				"x": 314,
+				"y": 14,
+				"ratio": "0.997327",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 402,
+				"y": 13,
+				"ratio": "0.997313",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "109",
+		"cmdStr": "상대에게 접근하여\n",
+		"name": "KneeDrive",
+		"cmdImg": [
+			{
+				"x": 175,
+				"y": 9,
+				"ratio": "0.994524",
+				"cmd": "arrow_9"
+			},
+			{
+				"x": 205,
+				"y": 6,
+				"ratio": "0.977832",
+				"cmd": "ap"
+			}
+		]
+	},
+	{
+		"no": "110",
+		"cmdStr": "춰서 -\n1 맞:\n격에\n\n[것\n(혹은 @ %)\n",
+		"name": "MistIllusion",
+		"cmdImg": [
+			{
+				"x": 239,
+				"y": 7,
+				"ratio": "0.968518",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 270,
+				"y": 6,
+				"ratio": "0.908567",
+				"cmd": "lp"
+			},
+			{
+				"x": 308,
+				"y": 14,
+				"ratio": "0.994918",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 365,
+				"y": 7,
+				"ratio": "0.980931",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 431,
+				"y": 13,
+				"ratio": "0.996100",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "111",
+		"cmdStr": "베아|105101성공후 ^\n",
+		"name": "IllusionEdge",
+		"cmdImg": [
+			{
+				"x": 183,
+				"y": 6,
+				"ratio": "0.965284",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "112",
+		"cmdStr": "|단 공격에 맞춰서\n",
+		"name": "LowParry",
+		"cmdImg": [
+			{
+				"x": 241,
+				"y": 9,
+				"ratio": "0.963326",
+				"cmd": "arrow_3bold"
+			}
+		]
+	},
+	{
+		"no": "1",
+		"cmdStr": "공격에 ' 가드 대미지 」 효과가 붙음\n",
+		"name": "AteSollStQEASS",
+		"cmdImg": []
+	},
+	{
+		"no": "14",
+		"cmdStr": "",
+		"name": "LeftRightCombo",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.975583",
+				"cmd": "lp"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.986253",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "15",
+		"cmdStr": "",
+		"name": "LeftRightComboRevolutionZwei",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.969131",
+				"cmd": "lp"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.979811",
+				"cmd": "rp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.973972",
+				"cmd": "rp"
+			},
+			{
+				"x": 109,
+				"y": 6,
+				"ratio": "0.968809",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "16",
+		"cmdStr": "",
+		"name": "LeftRightMidKick",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.972726",
+				"cmd": "lp"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.982190",
+				"cmd": "rp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.985839",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "17",
+		"cmdStr": "\" (저스트)\n",
+		"name": "LeftRightMidKickCardinal",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.966027",
+				"cmd": "lp"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.978275",
+				"cmd": "rp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.981485",
+				"cmd": "rk"
+			},
+			{
+				"x": 112,
+				"y": 14,
+				"ratio": "0.993489",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 181,
+				"y": 13,
+				"ratio": "0.994260",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "18",
+		"cmdStr": "(저스트: 3,4타)\n",
+		"name": "AcidRainKickCombination",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.965319",
+				"cmd": "lp"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.977099",
+				"cmd": "lk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.982155",
+				"cmd": "lk"
+			},
+			{
+				"x": 109,
+				"y": 6,
+				"ratio": "0.976628",
+				"cmd": "lk"
+			},
+			{
+				"x": 147,
+				"y": 14,
+				"ratio": "0.996148",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 280,
+				"y": 13,
+				"ratio": "0.987992",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "19",
+		"cmdStr": "",
+		"name": "CombinationDrei",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.956445",
+				"cmd": "rp"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.988054",
+				"cmd": "lp"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.981505",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "20",
+		"cmdStr": "",
+		"name": "CombinationFiinf",
+		"cmdImg": [
+			{
+				"x": 6,
+				"y": 6,
+				"ratio": "0.958923",
+				"cmd": "rp"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.990834",
+				"cmd": "lp"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.984590",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "21",
+		"cmdStr": "",
+		"name": "CombinationVier",
+		"cmdImg": [
+			{
+				"x": 6,
+				"y": 6,
+				"ratio": "0.961800",
+				"cmd": "rp"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.990040",
+				"cmd": "lp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.987451",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "22",
+		"cmdStr": "",
+		"name": "RightCrossRevolutionZwei",
+		"cmdImg": [
+			{
+				"x": 6,
+				"y": 6,
+				"ratio": "0.956396",
+				"cmd": "rp"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.973339",
+				"cmd": "rp"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.977585",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "23",
+		"cmdStr": "",
+		"name": "MistWolfCombination",
+		"cmdImg": [
+			{
+				"x": 4,
+				"y": 6,
+				"ratio": "0.961392",
+				"cmd": "lk"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.981499",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "",
+		"cmdStr": "* 고 점면히트혹은가드시 (저스트)\n",
+		"name": "MistTrapThrow",
+		"cmdImg": [
+			{
+				"x": 16,
+				"y": 7,
+				"ratio": "0.996870",
+				"cmd": "bracketL"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.978096",
+				"cmd": "lk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.965189",
+				"cmd": "lk"
+			},
+			{
+				"x": 111,
+				"y": 7,
+				"ratio": "0.996711",
+				"cmd": "bracketR"
+			},
+			{
+				"x": 345,
+				"y": 6,
+				"ratio": "0.972391",
+				"cmd": "rk"
+			},
+			{
+				"x": 382,
+				"y": 14,
+				"ratio": "0.994623",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 451,
+				"y": 13,
+				"ratio": "0.995962",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "25",
+		"cmdStr": "",
+		"name": "SpinningHammerKick",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.961390",
+				"cmd": "rk"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.980589",
+				"cmd": "lk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.979252",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "26",
+		"cmdStr": "",
+		"name": "SpinKickSomersaultComho",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.965776",
+				"cmd": "rk"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.981521",
+				"cmd": "lk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.982501",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "27",
+		"cmdStr": "",
+		"name": "MachinegunKicks",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.961494",
+				"cmd": "rk"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.980202",
+				"cmd": "rk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.980783",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "28",
+		"cmdStr": "ㅁㅋ < (저스트)\n",
+		"name": "MachinegunKicksCardinal",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.957307",
+				"cmd": "rk"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.976546",
+				"cmd": "rk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.971189",
+				"cmd": "rk"
+			},
+			{
+				"x": 112,
+				"y": 14,
+				"ratio": "0.992822",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 181,
+				"y": 13,
+				"ratio": "0.992466",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "29",
+		"cmdStr": "",
+		"name": "LeeSomersault",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.962851",
+				"cmd": "rk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.978182",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "30",
+		"cmdStr": "",
+		"name": "PirouettePunch",
+		"cmdImg": [
+			{
+				"x": 4,
+				"y": 6,
+				"ratio": "0.992681",
+				"cmd": "ap"
+			}
+		]
+	},
+	{
+		"no": "31",
+		"cmdStr": "",
+		"name": "Hitman",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.968736",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "32",
+		"cmdStr": "가\n",
+		"name": "DoubleSignal",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.992295",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.983422",
+				"cmd": "rp"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.990255",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "33",
+		"cmdStr": "",
+		"name": "AcidStorm",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.977832",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.963468",
+				"cmd": "lk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.980882",
+				"cmd": "lk"
+			},
+			{
+				"x": 109,
+				"y": 6,
+				"ratio": "0.969513",
+				"cmd": "lk"
+			},
+			{
+				"x": 144,
+				"y": 6,
+				"ratio": "0.969023",
+				"cmd": "lk"
+			},
+			{
+				"x": 179,
+				"y": 6,
+				"ratio": "0.968596",
+				"cmd": "lk"
+			},
+			{
+				"x": 215,
+				"y": 6,
+				"ratio": "0.965263",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "34",
+		"cmdStr": "ㅎㅇ ＊ㅎ ㅇㅇ ㅠ . ＊* (저스트)\n",
+		"name": "AcidStormCardinal",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.989576",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.979651",
+				"cmd": "lk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.979891",
+				"cmd": "lk"
+			},
+			{
+				"x": 109,
+				"y": 6,
+				"ratio": "0.984619",
+				"cmd": "lk"
+			},
+			{
+				"x": 144,
+				"y": 6,
+				"ratio": "0.981664",
+				"cmd": "lk"
+			},
+			{
+				"x": 179,
+				"y": 6,
+				"ratio": "0.981658",
+				"cmd": "lk"
+			},
+			{
+				"x": 215,
+				"y": 6,
+				"ratio": "0.984396",
+				"cmd": "rk"
+			},
+			{
+				"x": 252,
+				"y": 14,
+				"ratio": "0.996490",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 321,
+				"y": 13,
+				"ratio": "0.994724",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "35",
+		"cmdStr": "(재구\n들”\n므#즉\n",
+		"name": "DeadlyRevolution",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.987237",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.980300",
+				"cmd": "rk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.985481",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "35",
+		"cmdStr": "” 겨\n[누수\n>\n",
+		"name": "DeadlyRevolution",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.987678",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.986130",
+				"cmd": "rk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.991006",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "37",
+		"cmdStr": "므로\n",
+		"name": "DeadlyArc",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.990000",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.983388",
+				"cmd": "rk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.983187",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "38",
+		"cmdStr": "598\n",
+		"name": "AggressiveOneTwo",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.987624",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 38,
+				"y": 6,
+				"ratio": "0.970339",
+				"cmd": "ap"
+			}
+		]
+	},
+	{
+		"no": "39",
+		"cmdStr": "",
+		"name": "FeatherLanding",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.990828",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.979791",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "40",
+		"cmdStr": "|\n\n]\n『\n익\n",
+		"name": "SilverUppercut",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 10,
+				"ratio": "0.978561",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.977914",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "41",
+		"cmdStr": "",
+		"name": "MercuryDrive",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 10,
+				"ratio": "0.982924",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.978841",
+				"cmd": "lk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.987006",
+				"cmd": "rp"
+			},
+			{
+				"x": 109,
+				"y": 6,
+				"ratio": "0.976192",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "42",
+		"cmdStr": "",
+		"name": "FabulousWhip",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 10,
+				"ratio": "0.970203",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.978942",
+				"cmd": "rk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.979036",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "43",
+		"cmdStr": "토레\n",
+		"name": "GutPolisher",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 7,
+				"ratio": "0.954524",
+				"cmd": "arrow_2"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.978226",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "44",
+		"cmdStr": "",
+		"name": "SilverLow",
+		"cmdImg": [
+			{
+				"x": 6,
+				"y": 7,
+				"ratio": "0.961636",
+				"cmd": "arrow_2"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.974787",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "45",
+		"cmdStr": "610\n",
+		"name": "ShinHeadKick",
+		"cmdImg": [
+			{
+				"x": 6,
+				"y": 7,
+				"ratio": "0.960408",
+				"cmd": "arrow_2"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.985376",
+				"cmd": "rk"
+			},
+			{
+				"x": 110,
+				"y": 6,
+				"ratio": "0.985953",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "46",
+		"cmdStr": "2 르이으으\n",
+		"name": "LaserEdgeKickCombo",
+		"cmdImg": [
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.971295",
+				"cmd": "rk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.974062",
+				"cmd": "rk"
+			},
+			{
+				"x": 110,
+				"y": 6,
+				"ratio": "0.969343",
+				"cmd": "rk"
+			},
+			{
+				"x": 145,
+				"y": 6,
+				"ratio": "0.979084",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "47",
+		"cmdStr": "",
+		"name": "SilverCyclone",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 7,
+				"ratio": "0.964262",
+				"cmd": "arrow_2"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.974300",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "48",
+		"cmdStr": "",
+		"name": "BumpKick",
+		"cmdImg": [
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.969886",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "49",
+		"cmdStr": "\"1\n",
+		"name": "GrassSnake",
+		"cmdImg": [
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.976164",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "50",
+		"cmdStr": "수유리\n",
+		"name": "TripleFang",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.964530",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.988313",
+				"cmd": "lp"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.990398",
+				"cmd": "lp"
+			},
+			{
+				"x": 110,
+				"y": 6,
+				"ratio": "0.984519",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "51",
+		"cmdStr": "\"  、 (저스트:2타)\n",
+		"name": "TripleFangCardinal",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.964863",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.982207",
+				"cmd": "lp"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.984860",
+				"cmd": "lp"
+			},
+			{
+				"x": 110,
+				"y": 6,
+				"ratio": "0.968995",
+				"cmd": "rp"
+			},
+			{
+				"x": 147,
+				"y": 14,
+				"ratio": "0.993702",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 258,
+				"y": 13,
+				"ratio": "0.987310",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "52",
+		"cmdStr": "",
+		"name": "DoubleFangCardinal",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.964695",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.987423",
+				"cmd": "lp"
+			},
+			{
+				"x": 73,
+				"y": 6,
+				"ratio": "0.975774",
+				"cmd": "ap"
+			},
+			{
+				"x": 112,
+				"y": 14,
+				"ratio": "0.996273",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 181,
+				"y": 13,
+				"ratio": "0.995875",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "53",
+		"cmdStr": "",
+		"name": "RearCrossPunch",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.964217",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.968525",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "54",
+		"cmdStr": "",
+		"name": "SuperHighCombination",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.965996",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.973987",
+				"cmd": "rp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.982296",
+				"cmd": "rk"
+			},
+			{
+				"x": 109,
+				"y": 6,
+				"ratio": "0.971751",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "55",
+		"cmdStr": "",
+		"name": "StingingRush",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.969668",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.975646",
+				"cmd": "lk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.981669",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "56",
+		"cmdStr": "수\n\n록\n\n<\n",
+		"name": "SilverHeel",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.966328",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.981804",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "57",
+		"cmdStr": "4\n",
+		"name": "SilverRevolution",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.963424",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.973124",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "58",
+		"cmdStr": "",
+		"name": "WheelofFate",
+		"cmdImg": [
+			{
+				"x": 9,
+				"y": 10,
+				"ratio": "0.975321",
+				"cmd": "arrow_7"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.978542",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "59",
+		"cmdStr": "",
+		"name": "Fake",
+		"cmdImg": [
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.985197",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "60",
+		"cmdStr": "께으\n",
+		"name": "BrilliantRosé",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 9,
+				"ratio": "0.990047",
+				"cmd": "arrow_9"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.983930",
+				"cmd": "lk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.990300",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "61",
+		"cmdStr": "께는 드\n",
+		"name": "DoubleMazurek",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 9,
+				"ratio": "0.990502",
+				"cmd": "arrow_9"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.979758",
+				"cmd": "lk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.984778",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "62",
+		"cmdStr": "찌든\n",
+		"name": "SilverArrow",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 9,
+				"ratio": "0.989082",
+				"cmd": "arrow_9"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.982815",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "63",
+		"cmdStr": "",
+		"name": "SilverBullet",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 9,
+				"ratio": "0.991314",
+				"cmd": "arrow_9"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.978234",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "64",
+		"cmdStr": "께곳9\n",
+		"name": "DelayedRisingToeKick",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 9,
+				"ratio": "0.988839",
+				"cmd": "arrow_9"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.978714",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "65",
+		"cmdStr": "무아\n",
+		"name": "JostleWolf",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.990157",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 7,
+				"ratio": "0.984266",
+				"cmd": "arrow_6bold"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.981049",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "66",
+		"cmdStr": "\" (빠르게 입력)\n",
+		"name": "JostleWolfCardinal",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.990420",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 7,
+				"ratio": "0.983591",
+				"cmd": "arrow_6bold"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.986626",
+				"cmd": "rp"
+			},
+			{
+				"x": 112,
+				"y": 14,
+				"ratio": "0.992906",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 223,
+				"y": 13,
+				"ratio": "0.997018",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "67",
+		"cmdStr": "",
+		"name": "PulseBlast",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.990977",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 7,
+				"ratio": "0.988566",
+				"cmd": "arrow_6bold"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.976424",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "68",
+		"cmdStr": "-거가오3\n",
+		"name": "DeadlyEdge",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.976536",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 7,
+				"ratio": "0.971989",
+				"cmd": "arrow_6bold"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.979542",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "69",
+		"cmdStr": "가보\n",
+		"name": "BlazingKick",
+		"cmdImg": [
+			{
+				"x": 6,
+				"y": 7,
+				"ratio": "0.956985",
+				"cmd": "arrow_2"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.979492",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "70",
+		"cmdStr": "@<28\n",
+		"name": "LeeCutter",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.969534",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 41,
+				"y": 9,
+				"ratio": "0.970746",
+				"cmd": "arrow_4bold"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.981190",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "71",
+		"cmdStr": "",
+		"name": "WaxingCrescent",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.991326",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 42,
+				"y": 7,
+				"ratio": "0.974565",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 75,
+				"y": 7,
+				"ratio": "0.987308",
+				"cmd": "arrow_6bold"
+			},
+			{
+				"x": 109,
+				"y": 6,
+				"ratio": "0.979016",
+				"cmd": "lk"
+			},
+			{
+				"x": 145,
+				"y": 6,
+				"ratio": "0.984846",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "72",
+		"cmdStr": "",
+		"name": "HitCombo",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 10,
+				"ratio": "0.971385",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.980088",
+				"cmd": "lp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.967593",
+				"cmd": "rp"
+			},
+			{
+				"x": 110,
+				"y": 6,
+				"ratio": "0.975017",
+				"cmd": "rp"
+			},
+			{
+				"x": 144,
+				"y": 6,
+				"ratio": "0.984995",
+				"cmd": "lp"
+			},
+			{
+				"x": 179,
+				"y": 6,
+				"ratio": "0.976547",
+				"cmd": "lk"
+			},
+			{
+				"x": 214,
+				"y": 6,
+				"ratio": "0.968672",
+				"cmd": "lk"
+			},
+			{
+				"x": 249,
+				"y": 6,
+				"ratio": "0.974747",
+				"cmd": "lk"
+			},
+			{
+				"x": 284,
+				"y": 6,
+				"ratio": "0.962978",
+				"cmd": "rk"
+			},
+			{
+				"x": 318,
+				"y": 6,
+				"ratio": "0.968606",
+				"cmd": "lk"
+			},
+			{
+				"x": 354,
+				"y": 6,
+				"ratio": "0.978141",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "73",
+		"cmdStr": "",
+		"name": "BackHandspringHitman",
+		"cmdImg": [
+			{
+				"x": 9,
+				"y": 10,
+				"ratio": "0.976671",
+				"cmd": "arrow_7"
+			},
+			{
+				"x": 42,
+				"y": 7,
+				"ratio": "0.989215",
+				"cmd": "arrow_4"
+			}
+		]
+	},
+	{
+		"no": "74",
+		"cmdStr": "",
+		"name": "Taunt",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.929841",
+				"cmd": "apk"
+			}
+		]
+	},
+	{
+		"no": "75",
+		"cmdStr": "",
+		"name": "KiCharge",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.992458",
+				"cmd": "apk"
+			}
+		]
+	},
+	{
+		"no": "76",
+		"cmdStr": "일어나며 “\n",
+		"name": "WonderfulSpinBlow",
+		"cmdImg": [
+			{
+				"x": 88,
+				"y": 6,
+				"ratio": "0.969045",
+				"cmd": "lp"
+			},
+			{
+				"x": 123,
+				"y": 6,
+				"ratio": "0.986218",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "77",
+		"cmdStr": "일어나며 ^\n",
+		"name": "WonderfulCombo",
+		"cmdImg": [
+			{
+				"x": 88,
+				"y": 6,
+				"ratio": "0.974119",
+				"cmd": "lp"
+			},
+			{
+				"x": 123,
+				"y": 6,
+				"ratio": "0.984349",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "78",
+		"cmdStr": "일어나며\n",
+		"name": "RocketHeel",
+		"cmdImg": [
+			{
+				"x": 89,
+				"y": 6,
+				"ratio": "0.956228",
+				"cmd": "rp"
+			},
+			{
+				"x": 122,
+				"y": 6,
+				"ratio": "0.981218",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "79",
+		"cmdStr": "일어나며 ㆍ\n",
+		"name": "TwisterHeel",
+		"cmdImg": [
+			{
+				"x": 89,
+				"y": 6,
+				"ratio": "0.963833",
+				"cmd": "rp"
+			},
+			{
+				"x": 123,
+				"y": 6,
+				"ratio": "0.987152",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "80",
+		"cmdStr": "일어나며, 2606 이의 조그 윤이60아\n",
+		"name": "InfiniteKickChainLow",
+		"cmdImg": [
+			{
+				"x": 87,
+				"y": 6,
+				"ratio": "0.959958",
+				"cmd": "lk"
+			},
+			{
+				"x": 122,
+				"y": 6,
+				"ratio": "0.977659",
+				"cmd": "lk"
+			},
+			{
+				"x": 192,
+				"y": 6,
+				"ratio": "0.978174",
+				"cmd": "lk"
+			},
+			{
+				"x": 227,
+				"y": 6,
+				"ratio": "0.976008",
+				"cmd": "lk"
+			},
+			{
+				"x": 297,
+				"y": 6,
+				"ratio": "0.973229",
+				"cmd": "lk"
+			},
+			{
+				"x": 332,
+				"y": 6,
+				"ratio": "0.971871",
+				"cmd": "lk"
+			},
+			{
+				"x": 401,
+				"y": 6,
+				"ratio": "0.973410",
+				"cmd": "lk"
+			},
+			{
+				"x": 436,
+				"y": 6,
+				"ratio": "0.970961",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "81",
+		"cmdStr": "일어나며 ㅇ 20 ㅎㅇ 6 6 ×6060아\n",
+		"name": "InfiniteKickChainMiddle",
+		"cmdImg": [
+			{
+				"x": 87,
+				"y": 6,
+				"ratio": "0.963302",
+				"cmd": "lk"
+			},
+			{
+				"x": 122,
+				"y": 6,
+				"ratio": "0.980062",
+				"cmd": "lk"
+			},
+			{
+				"x": 160,
+				"y": 9,
+				"ratio": "0.979222",
+				"cmd": "arrow_3bold"
+			},
+			{
+				"x": 192,
+				"y": 6,
+				"ratio": "0.978985",
+				"cmd": "lk"
+			},
+			{
+				"x": 227,
+				"y": 6,
+				"ratio": "0.980542",
+				"cmd": "lk"
+			},
+			{
+				"x": 297,
+				"y": 6,
+				"ratio": "0.982704",
+				"cmd": "lk"
+			},
+			{
+				"x": 332,
+				"y": 6,
+				"ratio": "0.980290",
+				"cmd": "lk"
+			},
+			{
+				"x": 401,
+				"y": 6,
+				"ratio": "0.979446",
+				"cmd": "lk"
+			},
+			{
+				"x": 436,
+				"y": 6,
+				"ratio": "0.981686",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "82",
+		"cmdStr": "일어나며\n",
+		"name": "ToeSmash",
+		"cmdImg": [
+			{
+				"x": 88,
+				"y": 6,
+				"ratio": "0.965845",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "83",
+		"cmdStr": "태에서\n\n}\n\n『지\n기\n자\n|\n",
+		"name": "SilverTail",
+		"cmdImg": [
+			{
+				"x": 179,
+				"y": 10,
+				"ratio": "0.983090",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 211,
+				"y": 6,
+				"ratio": "0.979498",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "84",
+		"cmdStr": "태에서\n\n}\n\n『지\n기\n자\n|\n",
+		"name": "CatapultKick",
+		"cmdImg": [
+			{
+				"x": 211,
+				"y": 6,
+				"ratio": "0.981013",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "85",
+		"cmdStr": "태에서\n\n}:\n\n0\n기\n자\n|\n",
+		"name": "CatapultDrop",
+		"cmdImg": [
+			{
+				"x": 211,
+				"y": 6,
+				"ratio": "0.977765",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "86",
+		"cmdStr": "태에서\n\n}:\n\n0\n기\n자\n|\n",
+		"name": "SlideStep",
+		"cmdImg": [
+			{
+				"x": 179,
+				"y": 10,
+				"ratio": "0.979721",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 211,
+				"y": 7,
+				"ratio": "0.993301",
+				"cmd": "arrow_2"
+			},
+			{
+				"x": 248,
+				"y": 9,
+				"ratio": "0.985706",
+				"cmd": "arrow_3bold"
+			}
+		]
+	},
+	{
+		"no": "87",
+		"cmdStr": "몸을 숙인 상태에서 월 4 였 《。\n",
+		"name": "FrictionSpear",
+		"cmdImg": [
+			{
+				"x": 179,
+				"y": 10,
+				"ratio": "0.966999",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 211,
+				"y": 7,
+				"ratio": "0.983041",
+				"cmd": "arrow_2"
+			},
+			{
+				"x": 248,
+				"y": 9,
+				"ratio": "0.980738",
+				"cmd": "arrow_3bold"
+			},
+			{
+				"x": 280,
+				"y": 6,
+				"ratio": "0.923804",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "88",
+		"cmdStr": "을 숙인 상태에서\n\n(웰 와 6 동시에누르기)\n",
+		"name": "FrictionSpearCardinal",
+		"cmdImg": [
+			{
+				"x": 179,
+				"y": 10,
+				"ratio": "0.983917",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 211,
+				"y": 7,
+				"ratio": "0.992730",
+				"cmd": "arrow_2"
+			},
+			{
+				"x": 248,
+				"y": 10,
+				"ratio": "0.957775",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 280,
+				"y": 6,
+				"ratio": "0.981667",
+				"cmd": "lk"
+			},
+			{
+				"x": 318,
+				"y": 14,
+				"ratio": "0.998076",
+				"cmd": "bracketRoundL"
+			},
+			{
+				"x": 331,
+				"y": 10,
+				"ratio": "0.947957",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 387,
+				"y": 6,
+				"ratio": "0.925542",
+				"cmd": "lk"
+			},
+			{
+				"x": 547,
+				"y": 13,
+				"ratio": "0.997014",
+				"cmd": "bracketRoundR"
+			}
+		]
+	},
+	{
+		"no": "89",
+		"cmdStr": "",
+		"name": "MistStep",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.991385",
+				"cmd": "arrow_6"
+			}
+		]
+	},
+	{
+		"no": "90",
+		"cmdStr": "베19580 도중 - ^\n",
+		"name": "InvertedAxle",
+		"cmdImg": [
+			{
+				"x": 136,
+				"y": 6,
+				"ratio": "0.955491",
+				"cmd": "lk"
+			},
+			{
+				"x": 172,
+				"y": 6,
+				"ratio": "0.984784",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "91",
+		"cmdStr": "베16580 도중 --\n",
+		"name": "FrictionSpear",
+		"cmdImg": [
+			{
+				"x": 137,
+				"y": 6,
+				"ratio": "0.960099",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "92",
+		"cmdStr": "베아 56) 도중\n",
+		"name": "Sway",
+		"cmdImg": [
+			{
+				"x": 140,
+				"y": 7,
+				"ratio": "0.969556",
+				"cmd": "arrow_4"
+			}
+		]
+	},
+	{
+		"no": "93",
+		"cmdStr": "버1958) 도중\n",
+		"name": "AxeSweep",
+		"cmdImg": [
+			{
+				"x": 140,
+				"y": 7,
+				"ratio": "0.972354",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 207,
+				"y": 6,
+				"ratio": "0.985989",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "94",
+		"cmdStr": "00\n",
+		"name": "Hitman",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.967733",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "95",
+		"cmdStr": "114701도중 ^\n",
+		"name": "FreakerJab",
+		"cmdImg": [
+			{
+				"x": 117,
+				"y": 6,
+				"ratio": "0.975033",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "96",
+		"cmdStr": "1101701도중“\n",
+		"name": "AmazingSwipe",
+		"cmdImg": [
+			{
+				"x": 117,
+				"y": 6,
+				"ratio": "0.971135",
+				"cmd": "lp"
+			},
+			{
+				"x": 151,
+				"y": 6,
+				"ratio": "0.985390",
+				"cmd": "lp"
+			},
+			{
+				"x": 186,
+				"y": 6,
+				"ratio": "0.989642",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "97",
+		"cmdStr": "110781도중 ^\n",
+		"name": "ExcellentCombo",
+		"cmdImg": [
+			{
+				"x": 117,
+				"y": 6,
+				"ratio": "0.976425",
+				"cmd": "lp"
+			},
+			{
+				"x": 152,
+				"y": 6,
+				"ratio": "0.984750",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "98",
+		"cmdStr": "110781도중\n",
+		"name": "ScatterBlow",
+		"cmdImg": [
+			{
+				"x": 118,
+				"y": 6,
+				"ratio": "0.959881",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "99",
+		"cmdStr": "10781도중 -\n",
+		"name": "ScatterKick",
+		"cmdImg": [
+			{
+				"x": 116,
+				"y": 6,
+				"ratio": "0.962574",
+				"cmd": "lk"
+			}
+		]
+	}
+]

@@ -1,0 +1,1606 @@
+[
+	{
+		"no": "17",
+		"cmdStr": "",
+		"name": "LeftRightComboBlackHole",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.975187",
+				"cmd": "lp"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.986876",
+				"cmd": "rp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.986761",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "18",
+		"cmdStr": "",
+		"name": "RightStraightLeftLowKick",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.956020",
+				"cmd": "rp"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.976239",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "19",
+		"cmdStr": "",
+		"name": "PKCombo",
+		"cmdImg": [
+			{
+				"x": 6,
+				"y": 6,
+				"ratio": "0.964165",
+				"cmd": "rp"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.986564",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "20",
+		"cmdStr": "",
+		"name": "ValkyrieLanceCombo",
+		"cmdImg": [
+			{
+				"x": 4,
+				"y": 6,
+				"ratio": "0.955232",
+				"cmd": "lk"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.979670",
+				"cmd": "lk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.974010",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "21",
+		"cmdStr": "",
+		"name": "BrockenConnect",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.965757",
+				"cmd": "rk"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.990595",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "22",
+		"cmdStr": "",
+		"name": "Chariot",
+		"cmdImg": [
+			{
+				"x": 16,
+				"y": 7,
+				"ratio": "0.999928",
+				"cmd": "bracketL"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.998826",
+				"cmd": "lk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.998928",
+				"cmd": "rk"
+			},
+			{
+				"x": 111,
+				"y": 7,
+				"ratio": "0.999919",
+				"cmd": "bracketR"
+			}
+		]
+	},
+	{
+		"no": "23",
+		"cmdStr": "",
+		"name": "HydraBiteLow",
+		"cmdImg": [
+			{
+				"x": 16,
+				"y": 7,
+				"ratio": "0.998137",
+				"cmd": "bracketL"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.987303",
+				"cmd": "rk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.981627",
+				"cmd": "lk"
+			},
+			{
+				"x": 111,
+				"y": 7,
+				"ratio": "0.997348",
+				"cmd": "bracketR"
+			},
+			{
+				"x": 144,
+				"y": 6,
+				"ratio": "0.996045",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "24",
+		"cmdStr": "",
+		"name": "HydraBiteHigh",
+		"cmdImg": [
+			{
+				"x": 16,
+				"y": 7,
+				"ratio": "0.998155",
+				"cmd": "bracketL"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.980305",
+				"cmd": "rk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.980577",
+				"cmd": "lk"
+			},
+			{
+				"x": 111,
+				"y": 7,
+				"ratio": "0.997306",
+				"cmd": "bracketR"
+			},
+			{
+				"x": 144,
+				"y": 6,
+				"ratio": "0.986020",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "25",
+		"cmdStr": "",
+		"name": "HydraBiteMid",
+		"cmdImg": [
+			{
+				"x": 16,
+				"y": 7,
+				"ratio": "0.998307",
+				"cmd": "bracketL"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.980496",
+				"cmd": "rk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.981665",
+				"cmd": "lk"
+			},
+			{
+				"x": 111,
+				"y": 7,
+				"ratio": "0.996769",
+				"cmd": "bracketR"
+			},
+			{
+				"x": 145,
+				"y": 6,
+				"ratio": "0.982784",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "26",
+		"cmdStr": "",
+		"name": "Crusader",
+		"cmdImg": [
+			{
+				"x": 4,
+				"y": 6,
+				"ratio": "0.999521",
+				"cmd": "ap"
+			}
+		]
+	},
+	{
+		"no": "27",
+		"cmdStr": "",
+		"name": "Soulzone",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.965197",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "28",
+		"cmdStr": "",
+		"name": "Tartaros",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.989668",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.979036",
+				"cmd": "rp"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.977101",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "29",
+		"cmdStr": "마을 르\n",
+		"name": "CirclingWinds",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.984151",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.981769",
+				"cmd": "lk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.971128",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "30",
+		"cmdStr": "",
+		"name": "LanceKick",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.991181",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.986772",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "31",
+		"cmdStr": "",
+		"name": "MinosTyphoon",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.973747",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 38,
+				"y": 6,
+				"ratio": "0.959638",
+				"cmd": "ap"
+			}
+		]
+	},
+	{
+		"no": "32",
+		"cmdStr": "혹은 가드 시\n\n미|\n",
+		"name": "BodyBlowPhantomMace",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 10,
+				"ratio": "0.990057",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.998877",
+				"cmd": "lp"
+			},
+			{
+				"x": 233,
+				"y": 6,
+				"ratio": "0.986497",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "33",
+		"cmdStr": "",
+		"name": "MeatHook",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 10,
+				"ratio": "0.974501",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.977927",
+				"cmd": "rp"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.977486",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "34",
+		"cmdStr": "",
+		"name": "BoltStunner",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 10,
+				"ratio": "0.982042",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.983131",
+				"cmd": "rp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.985866",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "35",
+		"cmdStr": "",
+		"name": "ShadowSnapKick",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 10,
+				"ratio": "0.979212",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.978630",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "36",
+		"cmdStr": "원\n",
+		"name": "PendulumKick",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 10,
+				"ratio": "0.981397",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.986671",
+				"cmd": "rk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.983889",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "37",
+		"cmdStr": "",
+		"name": "PendulumShadow",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 10,
+				"ratio": "0.977289",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.977586",
+				"cmd": "rk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.981056",
+				"cmd": "rk"
+			},
+			{
+				"x": 109,
+				"y": 6,
+				"ratio": "0.978390",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "38",
+		"cmdStr": "",
+		"name": "StingingLow",
+		"cmdImg": [
+			{
+				"x": 6,
+				"y": 7,
+				"ratio": "0.961051",
+				"cmd": "arrow_2"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.981992",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "39",
+		"cmdStr": "",
+		"name": "BasiliskFang",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 7,
+				"ratio": "0.959390",
+				"cmd": "arrow_2"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.985206",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "40",
+		"cmdStr": "음\n\n혹은 가드 시 ^\n",
+		"name": "AssassinsStingPhantomJavelin",
+		"cmdImg": [
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.985513",
+				"cmd": "rp"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.987543",
+				"cmd": "lp"
+			},
+			{
+				"x": 267,
+				"y": 6,
+				"ratio": "0.990484",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "41",
+		"cmdStr": "소집\n",
+		"name": "KillerBee",
+		"cmdImg": [
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.981772",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "42",
+		"cmdStr": "수서\n",
+		"name": "ShinobiCyclone",
+		"cmdImg": [
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.977863",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "43",
+		"cmdStr": "5\n",
+		"name": "ElbowStrike",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.968566",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.985418",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "44",
+		"cmdStr": "",
+		"name": "UnicornsTail",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.965872",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.978850",
+				"cmd": "rp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.978517",
+				"cmd": "rp"
+			},
+			{
+				"x": 109,
+				"y": 6,
+				"ratio": "0.978443",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "45",
+		"cmdStr": "",
+		"name": "DeadlyTalon",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.968799",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.982170",
+				"cmd": "rp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.980362",
+				"cmd": "rp"
+			},
+			{
+				"x": 108,
+				"y": 6,
+				"ratio": "0.978060",
+				"cmd": "ap"
+			}
+		]
+	},
+	{
+		"no": "46",
+		"cmdStr": "^ 히트 혹은 가드 시\n",
+		"name": "MissingWormPhantomHalberd",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.967048",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.975089",
+				"cmd": "rp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.982233",
+				"cmd": "rk"
+			},
+			{
+				"x": 268,
+				"y": 6,
+				"ratio": "0.976444",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "47",
+		"cmdStr": "",
+		"name": "HadesHeel",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.967124",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.978810",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "48",
+		"cmdStr": "수아\n",
+		"name": "SkullSmasher",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.964667",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.982157",
+				"cmd": "rk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.980562",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "49",
+		"cmdStr": "소데\n",
+		"name": "SkullSmasherFeint",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.971208",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.980279",
+				"cmd": "rk"
+			},
+			{
+				"x": 76,
+				"y": 9,
+				"ratio": "0.967485",
+				"cmd": "arrow_4bold"
+			},
+			{
+				"x": 110,
+				"y": 6,
+				"ratio": "0.981581",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "50",
+		"cmdStr": "",
+		"name": "SkullSpin",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.969564",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.979857",
+				"cmd": "rk"
+			},
+			{
+				"x": 76,
+				"y": 9,
+				"ratio": "0.960632",
+				"cmd": "arrow_4bold"
+			},
+			{
+				"x": 110,
+				"y": 6,
+				"ratio": "0.973834",
+				"cmd": "rk"
+			},
+			{
+				"x": 144,
+				"y": 6,
+				"ratio": "0.975237",
+				"cmd": "lk"
+			},
+			{
+				"x": 180,
+				"y": 6,
+				"ratio": "0.978178",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "51",
+		"cmdStr": "",
+		"name": "AlternatingSmash",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.968928",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 38,
+				"y": 6,
+				"ratio": "0.978488",
+				"cmd": "ap"
+			}
+		]
+	},
+	{
+		"no": "52",
+		"cmdStr": "",
+		"name": "Labyrinth",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.965909",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.981614",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "53",
+		"cmdStr": "8 오소\n",
+		"name": "GateKeeper",
+		"cmdImg": [
+			{
+				"x": 9,
+				"y": 10,
+				"ratio": "0.980850",
+				"cmd": "arrow_7"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.992148",
+				"cmd": "lp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.987617",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "54",
+		"cmdStr": "으 소르\n내       ㆍ\n0 6\n",
+		"name": "DeathbringerLow",
+		"cmdImg": [
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.980900",
+				"cmd": "lk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.979111",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "59",
+		"cmdStr": "소론 헝 도 [저\n",
+		"name": "DeathbringerLowShadow",
+		"cmdImg": [
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.980563",
+				"cmd": "lk"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.977941",
+				"cmd": "lk"
+			},
+			{
+				"x": 109,
+				"y": 6,
+				"ratio": "0.973844",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "56",
+		"cmdStr": "",
+		"name": "ShadowScythe",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 9,
+				"ratio": "0.993423",
+				"cmd": "arrow_9"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.981264",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "57",
+		"cmdStr": "",
+		"name": "Stormbringer",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 9,
+				"ratio": "0.986820",
+				"cmd": "arrow_9"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.981367",
+				"cmd": "rk"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.982312",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "58",
+		"cmdStr": "",
+		"name": "Chakram",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 9,
+				"ratio": "0.993509",
+				"cmd": "arrow_9"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.979481",
+				"cmd": "ak"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.985369",
+				"cmd": "rk"
+			},
+			{
+				"x": 110,
+				"y": 6,
+				"ratio": "0.984250",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "59",
+		"cmdStr": "",
+		"name": "SpinningChakram",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 9,
+				"ratio": "0.987541",
+				"cmd": "arrow_9"
+			},
+			{
+				"x": 40,
+				"y": 6,
+				"ratio": "0.978331",
+				"cmd": "ak"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.980140",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "60",
+		"cmdStr": "",
+		"name": "DelayedRisingToeKick",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 9,
+				"ratio": "0.989338",
+				"cmd": "arrow_9"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.976927",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "61",
+		"cmdStr": "우로\n",
+		"name": "ShadowSpear",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.984217",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 7,
+				"ratio": "0.972733",
+				"cmd": "arrow_6bold"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.974650",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "62",
+		"cmdStr": "",
+		"name": "SuddenStrike",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.997440",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 7,
+				"ratio": "0.998654",
+				"cmd": "arrow_6bold"
+			},
+			{
+				"x": 74,
+				"y": 6,
+				"ratio": "0.980637",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "63",
+		"cmdStr": "다\nㅠ\n",
+		"name": "IronMaul",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.989929",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 40,
+				"y": 7,
+				"ratio": "0.989039",
+				"cmd": "arrow_6bold"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.983737",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "64",
+		"cmdStr": "",
+		"name": "TyphonFang",
+		"cmdImg": [
+			{
+				"x": 7,
+				"y": 7,
+				"ratio": "0.990779",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 42,
+				"y": 7,
+				"ratio": "0.972745",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 75,
+				"y": 7,
+				"ratio": "0.984318",
+				"cmd": "arrow_6bold"
+			},
+			{
+				"x": 109,
+				"y": 6,
+				"ratio": "0.979270",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "65",
+		"cmdStr": "",
+		"name": "WarHound",
+		"cmdImg": [
+			{
+				"x": 8,
+				"y": 7,
+				"ratio": "0.969288",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 41,
+				"y": 9,
+				"ratio": "0.972873",
+				"cmd": "arrow_4bold"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.975435",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "66",
+		"cmdStr": "",
+		"name": "HitCombo",
+		"cmdImg": [
+			{
+				"x": 9,
+				"y": 10,
+				"ratio": "0.979167",
+				"cmd": "arrow_7"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.990230",
+				"cmd": "lp"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.998452",
+				"cmd": "rp"
+			},
+			{
+				"x": 110,
+				"y": 6,
+				"ratio": "0.986602",
+				"cmd": "rp"
+			},
+			{
+				"x": 145,
+				"y": 6,
+				"ratio": "0.979255",
+				"cmd": "rp"
+			},
+			{
+				"x": 180,
+				"y": 6,
+				"ratio": "0.983702",
+				"cmd": "rk"
+			},
+			{
+				"x": 215,
+				"y": 6,
+				"ratio": "0.983661",
+				"cmd": "rp"
+			},
+			{
+				"x": 249,
+				"y": 6,
+				"ratio": "0.972029",
+				"cmd": "lk"
+			},
+			{
+				"x": 284,
+				"y": 6,
+				"ratio": "0.961795",
+				"cmd": "rk"
+			},
+			{
+				"x": 319,
+				"y": 6,
+				"ratio": "0.985002",
+				"cmd": "rp"
+			},
+			{
+				"x": 352,
+				"y": 6,
+				"ratio": "0.974913",
+				"cmd": "ap"
+			}
+		]
+	},
+	{
+		"no": "67",
+		"cmdStr": "<\n",
+		"name": "PandoraSpin",
+		"cmdImg": [
+			{
+				"x": 9,
+				"y": 10,
+				"ratio": "0.996880",
+				"cmd": "arrow_7"
+			},
+			{
+				"x": 41,
+				"y": 9,
+				"ratio": "0.998029",
+				"cmd": "arrow_4bold"
+			},
+			{
+				"x": 75,
+				"y": 6,
+				"ratio": "0.999497",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "68",
+		"cmdStr": "",
+		"name": "KiCharge",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.999635",
+				"cmd": "apk"
+			}
+		]
+	},
+	{
+		"no": "69",
+		"cmdStr": "오수 *\n",
+		"name": "DeadEnd",
+		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.990300",
+				"cmd": "apk"
+			},
+			{
+				"x": 42,
+				"y": 7,
+				"ratio": "0.997127",
+				"cmd": "arrow_4"
+			},
+			{
+				"x": 77,
+				"y": 7,
+				"ratio": "0.971463",
+				"cmd": "arrow_6"
+			},
+			{
+				"x": 108,
+				"y": 6,
+				"ratio": "0.971022",
+				"cmd": "ap"
+			}
+		]
+	},
+	{
+		"no": "70",
+		"cmdStr": "일어나며\n",
+		"name": "RisingUppercut",
+		"cmdImg": [
+			{
+				"x": 88,
+				"y": 6,
+				"ratio": "0.966651",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "71",
+		"cmdStr": "일어나며\n",
+		"name": "JackknifeElbow",
+		"cmdImg": [
+			{
+				"x": 89,
+				"y": 6,
+				"ratio": "0.954939",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "72",
+		"cmdStr": "|트록은가드시\n\n아\n10\n차\n\n일어나며 -\n",
+		"name": "TridentKickPhantomHalberd",
+		"cmdImg": [
+			{
+				"x": 87,
+				"y": 6,
+				"ratio": "0.963563",
+				"cmd": "lk"
+			},
+			{
+				"x": 281,
+				"y": 6,
+				"ratio": "0.983487",
+				"cmd": "rp"
+			}
+		]
+	},
+	{
+		"no": "73",
+		"cmdStr": "일어나며\n",
+		"name": "ShadowSnapKick",
+		"cmdImg": [
+			{
+				"x": 88,
+				"y": 6,
+				"ratio": "0.964331",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "74",
+		"cmdStr": "일어나며 .^\n",
+		"name": "SpinningMiddleKick",
+		"cmdImg": [
+			{
+				"x": 88,
+				"y": 6,
+				"ratio": "0.963614",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "78",
+		"cmdStr": "태에서\n\n},\n\n0\n기\n새\n|\n",
+		"name": "AquaSpider",
+		"cmdImg": [
+			{
+				"x": 179,
+				"y": 10,
+				"ratio": "0.978448",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 210,
+				"y": 6,
+				"ratio": "0.977776",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "76",
+		"cmdStr": "태에서\n\n}:\n\n0\n기\n자\n|\n",
+		"name": "TornadoDestruction",
+		"cmdImg": [
+			{
+				"x": 179,
+				"y": 10,
+				"ratio": "0.978662",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 211,
+				"y": 6,
+				"ratio": "0.980401",
+				"cmd": "ak"
+			}
+		]
+	},
+	{
+		"no": "77",
+		"cmdStr": "태에서\n\n}:\n\n0\n기\n자\n|\n",
+		"name": "CrouchStep",
+		"cmdImg": [
+			{
+				"x": 179,
+				"y": 10,
+				"ratio": "0.981869",
+				"cmd": "arrow_3"
+			},
+			{
+				"x": 211,
+				"y": 7,
+				"ratio": "0.999013",
+				"cmd": "arrow_2"
+			},
+			{
+				"x": 248,
+				"y": 9,
+				"ratio": "0.999340",
+				"cmd": "arrow_3bold"
+			}
+		]
+	},
+	{
+		"no": "78",
+		"cmdStr": "을 보일 때\n\n400\n\n상대에게\n",
+		"name": "BlindLance",
+		"cmdImg": [
+			{
+				"x": 200,
+				"y": 6,
+				"ratio": "0.973702",
+				"cmd": "lp"
+			},
+			{
+				"x": 235,
+				"y": 6,
+				"ratio": "0.982835",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "79",
+		"cmdStr": "을보일때\n\n00\n\n상대에게\n",
+		"name": "BackfistStraight",
+		"cmdImg": [
+			{
+				"x": 201,
+				"y": 6,
+				"ratio": "0.959262",
+				"cmd": "rp"
+			},
+			{
+				"x": 234,
+				"y": 6,
+				"ratio": "0.987809",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "80",
+		"cmdStr": "「괴\n\n}대에\n게 등을\n|등을보일때\n히트 혹은\n혹은 가드\n드시\n\n10\n",
+		"name": "BlindingKnifePhantomJavelin",
+		"cmdImg": [
+			{
+				"x": 200,
+				"y": 6,
+				"ratio": "0.949375",
+				"cmd": "rp"
+			},
+			{
+				"x": 235,
+				"y": 6,
+				"ratio": "0.977107",
+				"cmd": "rp"
+			},
+			{
+				"x": 427,
+				"y": 6,
+				"ratio": "0.980609",
+				"cmd": "lp"
+			}
+		]
+	},
+	{
+		"no": "81",
+		"cmdStr": "을 보일때 ㆍ\n\n비0\n\n상대에게\n",
+		"name": "CrescentMirage",
+		"cmdImg": [
+			{
+				"x": 199,
+				"y": 6,
+				"ratio": "0.961510",
+				"cmd": "lk"
+			},
+			{
+				"x": 235,
+				"y": 6,
+				"ratio": "0.986732",
+				"cmd": "rk"
+			},
+			{
+				"x": 269,
+				"y": 6,
+				"ratio": "0.980108",
+				"cmd": "lk"
+			}
+		]
+	},
+	{
+		"no": "82",
+		"cmdStr": "을 보일때 ㆍ\n\n비0\n\n상대에게\n",
+		"name": "Fafnir",
+		"cmdImg": [
+			{
+				"x": 199,
+				"y": 6,
+				"ratio": "0.963761",
+				"cmd": "lk"
+			},
+			{
+				"x": 235,
+				"y": 6,
+				"ratio": "0.983981",
+				"cmd": "rk"
+			},
+			{
+				"x": 270,
+				"y": 6,
+				"ratio": "0.983528",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "83",
+		"cmdStr": "을 보일 때\n\n비0\n\n상대에게\n",
+		"name": "ChronosLathe",
+		"cmdImg": [
+			{
+				"x": 200,
+				"y": 6,
+				"ratio": "0.944344",
+				"cmd": "rk"
+			}
+		]
+	},
+	{
+		"no": "84",
+		"cmdStr": "을보일때\n\n비0\n\n상대에게\n",
+		"name": "Crusader",
+		"cmdImg": [
+			{
+				"x": 199,
+				"y": 6,
+				"ratio": "0.985643",
+				"cmd": "ap"
+			}
+		]
+	}
+]

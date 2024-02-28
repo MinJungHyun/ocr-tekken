@@ -3,3 +3,4 @@ test_image/
 *.jpg
 temp/
 __pycache__/
+target/

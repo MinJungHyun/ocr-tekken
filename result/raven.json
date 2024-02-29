@@ -22,7 +22,8 @@
 				"ratio": "0.986761",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_17.jpg"
 	},
 	{
 		"no": "18",
@@ -41,7 +42,8 @@
 				"ratio": "0.976239",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_18.jpg"
 	},
 	{
 		"no": "19",
@@ -60,7 +62,8 @@
 				"ratio": "0.986564",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_19.jpg"
 	},
 	{
 		"no": "20",
@@ -85,7 +88,8 @@
 				"ratio": "0.974010",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_20.jpg"
 	},
 	{
 		"no": "21",
@@ -104,7 +108,8 @@
 				"ratio": "0.990595",
 				"cmd": "lp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_21.jpg"
 	},
 	{
 		"no": "22",
@@ -135,7 +140,8 @@
 				"ratio": "0.999919",
 				"cmd": "bracketR"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_22.jpg"
 	},
 	{
 		"no": "23",
@@ -172,7 +178,8 @@
 				"ratio": "0.996045",
 				"cmd": "lp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_23.jpg"
 	},
 	{
 		"no": "24",
@@ -209,7 +216,8 @@
 				"ratio": "0.986020",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_24.jpg"
 	},
 	{
 		"no": "25",
@@ -246,7 +254,8 @@
 				"ratio": "0.982784",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_25.jpg"
 	},
 	{
 		"no": "26",
@@ -259,7 +268,8 @@
 				"ratio": "0.999521",
 				"cmd": "ap"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_26.jpg"
 	},
 	{
 		"no": "27",
@@ -272,7 +282,8 @@
 				"ratio": "0.965197",
 				"cmd": "ak"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_27.jpg"
 	},
 	{
 		"no": "28",
@@ -297,7 +308,8 @@
 				"ratio": "0.977101",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_28.jpg"
 	},
 	{
 		"no": "29",
@@ -322,7 +334,8 @@
 				"ratio": "0.971128",
 				"cmd": "rp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_29.jpg"
 	},
 	{
 		"no": "30",
@@ -341,7 +354,8 @@
 				"ratio": "0.986772",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_30.jpg"
 	},
 	{
 		"no": "31",
@@ -360,7 +374,8 @@
 				"ratio": "0.959638",
 				"cmd": "ap"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_31.jpg"
 	},
 	{
 		"no": "32",
@@ -385,7 +400,8 @@
 				"ratio": "0.986497",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_32.jpg"
 	},
 	{
 		"no": "33",
@@ -410,7 +426,8 @@
 				"ratio": "0.977486",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_33.jpg"
 	},
 	{
 		"no": "34",
@@ -435,7 +452,8 @@
 				"ratio": "0.985866",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_34.jpg"
 	},
 	{
 		"no": "35",
@@ -454,7 +472,8 @@
 				"ratio": "0.978630",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_35.jpg"
 	},
 	{
 		"no": "36",
@@ -479,7 +498,8 @@
 				"ratio": "0.983889",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_36.jpg"
 	},
 	{
 		"no": "37",
@@ -510,7 +530,8 @@
 				"ratio": "0.978390",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_37.jpg"
 	},
 	{
 		"no": "38",
@@ -529,7 +550,8 @@
 				"ratio": "0.981992",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_38.jpg"
 	},
 	{
 		"no": "39",
@@ -548,7 +570,8 @@
 				"ratio": "0.985206",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_39.jpg"
 	},
 	{
 		"no": "40",
@@ -573,7 +596,8 @@
 				"ratio": "0.990484",
 				"cmd": "lp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_40.jpg"
 	},
 	{
 		"no": "41",
@@ -586,7 +610,8 @@
 				"ratio": "0.981772",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_41.jpg"
 	},
 	{
 		"no": "42",
@@ -599,7 +624,8 @@
 				"ratio": "0.977863",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_42.jpg"
 	},
 	{
 		"no": "43",
@@ -618,7 +644,8 @@
 				"ratio": "0.985418",
 				"cmd": "lp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_43.jpg"
 	},
 	{
 		"no": "44",
@@ -649,7 +676,8 @@
 				"ratio": "0.978443",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_44.jpg"
 	},
 	{
 		"no": "45",
@@ -680,7 +708,8 @@
 				"ratio": "0.978060",
 				"cmd": "ap"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_45.jpg"
 	},
 	{
 		"no": "46",
@@ -711,7 +740,8 @@
 				"ratio": "0.976444",
 				"cmd": "rp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_46.jpg"
 	},
 	{
 		"no": "47",
@@ -730,7 +760,8 @@
 				"ratio": "0.978810",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_47.jpg"
 	},
 	{
 		"no": "48",
@@ -755,7 +786,8 @@
 				"ratio": "0.980562",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_48.jpg"
 	},
 	{
 		"no": "49",
@@ -786,7 +818,8 @@
 				"ratio": "0.981581",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_49.jpg"
 	},
 	{
 		"no": "50",
@@ -829,7 +862,8 @@
 				"ratio": "0.978178",
 				"cmd": "ak"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_50.jpg"
 	},
 	{
 		"no": "51",
@@ -848,7 +882,8 @@
 				"ratio": "0.978488",
 				"cmd": "ap"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_51.jpg"
 	},
 	{
 		"no": "52",
@@ -867,7 +902,8 @@
 				"ratio": "0.981614",
 				"cmd": "ak"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_52.jpg"
 	},
 	{
 		"no": "53",
@@ -892,7 +928,8 @@
 				"ratio": "0.987617",
 				"cmd": "rp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_53.jpg"
 	},
 	{
 		"no": "54",
@@ -911,7 +948,8 @@
 				"ratio": "0.979111",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_54.jpg"
 	},
 	{
 		"no": "59",
@@ -936,7 +974,8 @@
 				"ratio": "0.973844",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_55.jpg"
 	},
 	{
 		"no": "56",
@@ -955,7 +994,8 @@
 				"ratio": "0.981264",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_56.jpg"
 	},
 	{
 		"no": "57",
@@ -980,7 +1020,8 @@
 				"ratio": "0.982312",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_57.jpg"
 	},
 	{
 		"no": "58",
@@ -1011,7 +1052,8 @@
 				"ratio": "0.984250",
 				"cmd": "rp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_58.jpg"
 	},
 	{
 		"no": "59",
@@ -1036,7 +1078,8 @@
 				"ratio": "0.980140",
 				"cmd": "ak"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_59.jpg"
 	},
 	{
 		"no": "60",
@@ -1055,7 +1098,8 @@
 				"ratio": "0.976927",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_60.jpg"
 	},
 	{
 		"no": "61",
@@ -1080,7 +1124,8 @@
 				"ratio": "0.974650",
 				"cmd": "rp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_61.jpg"
 	},
 	{
 		"no": "62",
@@ -1105,7 +1150,8 @@
 				"ratio": "0.980637",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_62.jpg"
 	},
 	{
 		"no": "63",
@@ -1130,7 +1176,8 @@
 				"ratio": "0.983737",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_63.jpg"
 	},
 	{
 		"no": "64",
@@ -1161,7 +1208,8 @@
 				"ratio": "0.979270",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_64.jpg"
 	},
 	{
 		"no": "65",
@@ -1186,7 +1234,8 @@
 				"ratio": "0.975435",
 				"cmd": "rp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_65.jpg"
 	},
 	{
 		"no": "66",
@@ -1259,7 +1308,8 @@
 				"ratio": "0.974913",
 				"cmd": "ap"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_66.jpg"
 	},
 	{
 		"no": "67",
@@ -1284,7 +1334,8 @@
 				"ratio": "0.999497",
 				"cmd": "ak"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_67.jpg"
 	},
 	{
 		"no": "68",
@@ -1297,7 +1348,8 @@
 				"ratio": "0.999635",
 				"cmd": "apk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_68.jpg"
 	},
 	{
 		"no": "69",
@@ -1328,7 +1380,8 @@
 				"ratio": "0.971022",
 				"cmd": "ap"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_69.jpg"
 	},
 	{
 		"no": "70",
@@ -1341,7 +1394,8 @@
 				"ratio": "0.966651",
 				"cmd": "lp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_70.jpg"
 	},
 	{
 		"no": "71",
@@ -1354,7 +1408,8 @@
 				"ratio": "0.954939",
 				"cmd": "rp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_71.jpg"
 	},
 	{
 		"no": "72",
@@ -1373,7 +1428,8 @@
 				"ratio": "0.983487",
 				"cmd": "rp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_72.jpg"
 	},
 	{
 		"no": "73",
@@ -1386,7 +1442,8 @@
 				"ratio": "0.964331",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_73.jpg"
 	},
 	{
 		"no": "74",
@@ -1399,7 +1456,8 @@
 				"ratio": "0.963614",
 				"cmd": "ak"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_74.jpg"
 	},
 	{
 		"no": "78",
@@ -1418,7 +1476,8 @@
 				"ratio": "0.977776",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_75.jpg"
 	},
 	{
 		"no": "76",
@@ -1437,7 +1496,8 @@
 				"ratio": "0.980401",
 				"cmd": "ak"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_76.jpg"
 	},
 	{
 		"no": "77",
@@ -1462,7 +1522,8 @@
 				"ratio": "0.999340",
 				"cmd": "arrow_3bold"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_77.jpg"
 	},
 	{
 		"no": "78",
@@ -1481,7 +1542,8 @@
 				"ratio": "0.982835",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_78.jpg"
 	},
 	{
 		"no": "79",
@@ -1500,7 +1562,8 @@
 				"ratio": "0.987809",
 				"cmd": "lp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_79.jpg"
 	},
 	{
 		"no": "80",
@@ -1525,7 +1588,8 @@
 				"ratio": "0.980609",
 				"cmd": "lp"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_80.jpg"
 	},
 	{
 		"no": "81",
@@ -1550,7 +1614,8 @@
 				"ratio": "0.980108",
 				"cmd": "lk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_81.jpg"
 	},
 	{
 		"no": "82",
@@ -1575,7 +1640,8 @@
 				"ratio": "0.983528",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_82.jpg"
 	},
 	{
 		"no": "83",
@@ -1588,7 +1654,8 @@
 				"ratio": "0.944344",
 				"cmd": "rk"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_83.jpg"
 	},
 	{
 		"no": "84",
@@ -1601,6 +1668,7 @@
 				"ratio": "0.985643",
 				"cmd": "ap"
 			}
-		]
+		],
+		"crop/top": "result/crop/raven/raven_top_84.jpg"
 	}
 ]

@@ -33,6 +33,12 @@
 		"name": "SilverSlash",
 		"cmdImg": [
 			{
+				"x": 117,
+				"y": 6,
+				"ratio": "0.990147",
+				"cmd": "a8"
+			},
+			{
 				"x": 151,
 				"y": 6,
 				"ratio": "0.979512",
@@ -47,6 +53,12 @@
 		"name": "SilverCircle",
 		"cmdImg": [
 			{
+				"x": 117,
+				"y": 6,
+				"ratio": "0.991908",
+				"cmd": "a8"
+			},
+			{
 				"x": 152,
 				"y": 6,
 				"ratio": "0.978230",
@@ -59,14 +71,28 @@
 		"no": "104",
 		"cmdStr": "상대에게 접근하여 “\n",
 		"name": "ForearmDrop",
-		"cmdImg": [],
+		"cmdImg": [
+			{
+				"x": 173,
+				"y": 6,
+				"ratio": "0.918669",
+				"cmd": "aklp"
+			}
+		],
 		"crop/top": "result/crop/lee/lee_top_104.jpg"
 	},
 	{
 		"no": "105",
 		"cmdStr": "상대에게접근하여 “^\n",
 		"name": "AxleThrow",
-		"cmdImg": [],
+		"cmdImg": [
+			{
+				"x": 171,
+				"y": 5,
+				"ratio": "0.918005",
+				"cmd": "akrp"
+			}
+		],
 		"crop/top": "result/crop/lee/lee_top_105.jpg"
 	},
 	{
@@ -75,16 +101,10 @@
 		"name": "LeeHarassment",
 		"cmdImg": [
 			{
-				"x": 314,
-				"y": 14,
-				"ratio": "0.996124",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 402,
-				"y": 13,
-				"ratio": "0.996859",
-				"cmd": "bracketRoundR"
+				"x": 278,
+				"y": 6,
+				"ratio": "0.902924",
+				"cmd": "aklp"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_106.jpg"
@@ -95,22 +115,10 @@
 		"name": "LeeStunner",
 		"cmdImg": [
 			{
-				"x": 298,
+				"x": 299,
 				"y": 6,
-				"ratio": "0.903530",
-				"cmd": "lk"
-			},
-			{
-				"x": 335,
-				"y": 14,
-				"ratio": "0.996702",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 423,
-				"y": 13,
-				"ratio": "0.997164",
-				"cmd": "bracketRoundR"
+				"ratio": "0.921392",
+				"cmd": "aklp"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_107.jpg"
@@ -121,16 +129,10 @@
 		"name": "FaceCrusher",
 		"cmdImg": [
 			{
-				"x": 314,
-				"y": 14,
-				"ratio": "0.997327",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 402,
-				"y": 13,
-				"ratio": "0.997313",
-				"cmd": "bracketRoundR"
+				"x": 278,
+				"y": 6,
+				"ratio": "0.917312",
+				"cmd": "aklp"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_108.jpg"
@@ -144,7 +146,7 @@
 				"x": 175,
 				"y": 9,
 				"ratio": "0.994524",
-				"cmd": "arrow_9"
+				"cmd": "a9"
 			},
 			{
 				"x": 205,
@@ -161,10 +163,10 @@
 		"name": "MistIllusion",
 		"cmdImg": [
 			{
-				"x": 239,
-				"y": 7,
-				"ratio": "0.968518",
-				"cmd": "arrow_4"
+				"x": 237,
+				"y": 6,
+				"ratio": "0.983338",
+				"cmd": "a4-br"
 			},
 			{
 				"x": 270,
@@ -173,22 +175,10 @@
 				"cmd": "lp"
 			},
 			{
-				"x": 308,
-				"y": 14,
-				"ratio": "0.994918",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 365,
-				"y": 7,
-				"ratio": "0.980931",
-				"cmd": "arrow_4"
-			},
-			{
-				"x": 431,
-				"y": 13,
-				"ratio": "0.996100",
-				"cmd": "bracketRoundR"
+				"x": 363,
+				"y": 6,
+				"ratio": "0.981823",
+				"cmd": "a4-br"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_110.jpg"
@@ -216,7 +206,7 @@
 				"x": 241,
 				"y": 9,
 				"ratio": "0.963326",
-				"cmd": "arrow_3bold"
+				"cmd": "a3b"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_112.jpg"
@@ -328,18 +318,6 @@
 				"y": 6,
 				"ratio": "0.981485",
 				"cmd": "rk"
-			},
-			{
-				"x": 112,
-				"y": 14,
-				"ratio": "0.993489",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 181,
-				"y": 13,
-				"ratio": "0.994260",
-				"cmd": "bracketRoundR"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_17.jpg"
@@ -372,18 +350,6 @@
 				"y": 6,
 				"ratio": "0.976628",
 				"cmd": "lk"
-			},
-			{
-				"x": 147,
-				"y": 14,
-				"ratio": "0.996148",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 280,
-				"y": 13,
-				"ratio": "0.987992",
-				"cmd": "bracketRoundR"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_18.jpg"
@@ -546,18 +512,6 @@
 				"y": 6,
 				"ratio": "0.972391",
 				"cmd": "rk"
-			},
-			{
-				"x": 382,
-				"y": 14,
-				"ratio": "0.994623",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 451,
-				"y": 13,
-				"ratio": "0.995962",
-				"cmd": "bracketRoundR"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_24.jpg"
@@ -662,18 +616,6 @@
 				"y": 6,
 				"ratio": "0.971189",
 				"cmd": "rk"
-			},
-			{
-				"x": 112,
-				"y": 14,
-				"ratio": "0.992822",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 181,
-				"y": 13,
-				"ratio": "0.992466",
-				"cmd": "bracketRoundR"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_28.jpg"
@@ -688,6 +630,12 @@
 				"y": 6,
 				"ratio": "0.962851",
 				"cmd": "rk"
+			},
+			{
+				"x": 39,
+				"y": 6,
+				"ratio": "0.951127",
+				"cmd": "a8"
 			},
 			{
 				"x": 74,
@@ -732,10 +680,10 @@
 		"name": "DoubleSignal",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.992295",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.992292",
+				"cmd": "a6"
 			},
 			{
 				"x": 40,
@@ -758,10 +706,10 @@
 		"name": "AcidStorm",
 		"cmdImg": [
 			{
-				"x": 7,
+				"x": 5,
 				"y": 7,
-				"ratio": "0.977832",
-				"cmd": "arrow_6"
+				"ratio": "0.976757",
+				"cmd": "a6-br"
 			},
 			{
 				"x": 39,
@@ -794,10 +742,10 @@
 				"cmd": "lk"
 			},
 			{
-				"x": 215,
+				"x": 214,
 				"y": 6,
-				"ratio": "0.965263",
-				"cmd": "rk"
+				"ratio": "0.967949",
+				"cmd": "rk-br"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_33.jpg"
@@ -808,10 +756,10 @@
 		"name": "AcidStormCardinal",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.989576",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.989767",
+				"cmd": "a6"
 			},
 			{
 				"x": 39,
@@ -848,18 +796,6 @@
 				"y": 6,
 				"ratio": "0.984396",
 				"cmd": "rk"
-			},
-			{
-				"x": 252,
-				"y": 14,
-				"ratio": "0.996490",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 321,
-				"y": 13,
-				"ratio": "0.994724",
-				"cmd": "bracketRoundR"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_34.jpg"
@@ -870,10 +806,10 @@
 		"name": "DeadlyRevolution",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.987237",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.988321",
+				"cmd": "a6"
 			},
 			{
 				"x": 40,
@@ -896,10 +832,10 @@
 		"name": "DeadlyRevolution",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.987678",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.989065",
+				"cmd": "a6"
 			},
 			{
 				"x": 40,
@@ -922,10 +858,10 @@
 		"name": "DeadlyArc",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.990000",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.991847",
+				"cmd": "a6"
 			},
 			{
 				"x": 40,
@@ -948,10 +884,10 @@
 		"name": "AggressiveOneTwo",
 		"cmdImg": [
 			{
-				"x": 7,
+				"x": 5,
 				"y": 7,
-				"ratio": "0.987624",
-				"cmd": "arrow_6"
+				"ratio": "0.988587",
+				"cmd": "a6-br"
 			},
 			{
 				"x": 38,
@@ -968,10 +904,10 @@
 		"name": "FeatherLanding",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.990828",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.994446",
+				"cmd": "a6"
 			},
 			{
 				"x": 40,
@@ -991,7 +927,7 @@
 				"x": 8,
 				"y": 10,
 				"ratio": "0.978561",
-				"cmd": "arrow_3"
+				"cmd": "a3"
 			},
 			{
 				"x": 40,
@@ -1011,7 +947,7 @@
 				"x": 8,
 				"y": 10,
 				"ratio": "0.982924",
-				"cmd": "arrow_3"
+				"cmd": "a3"
 			},
 			{
 				"x": 39,
@@ -1043,7 +979,7 @@
 				"x": 8,
 				"y": 10,
 				"ratio": "0.970203",
-				"cmd": "arrow_3"
+				"cmd": "a3"
 			},
 			{
 				"x": 40,
@@ -1069,7 +1005,7 @@
 				"x": 5,
 				"y": 7,
 				"ratio": "0.954524",
-				"cmd": "arrow_2"
+				"cmd": "a2"
 			},
 			{
 				"x": 40,
@@ -1089,7 +1025,7 @@
 				"x": 6,
 				"y": 7,
 				"ratio": "0.961636",
-				"cmd": "arrow_2"
+				"cmd": "a2"
 			},
 			{
 				"x": 39,
@@ -1109,13 +1045,19 @@
 				"x": 6,
 				"y": 7,
 				"ratio": "0.960408",
-				"cmd": "arrow_2"
+				"cmd": "a2"
 			},
 			{
 				"x": 40,
 				"y": 6,
 				"ratio": "0.985376",
 				"cmd": "rk"
+			},
+			{
+				"x": 75,
+				"y": 8,
+				"ratio": "0.989790",
+				"cmd": "n"
 			},
 			{
 				"x": 110,
@@ -1131,6 +1073,12 @@
 		"cmdStr": "2 르이으으\n",
 		"name": "LaserEdgeKickCombo",
 		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.999050",
+				"cmd": "a2b"
+			},
 			{
 				"x": 40,
 				"y": 6,
@@ -1167,7 +1115,7 @@
 				"x": 5,
 				"y": 7,
 				"ratio": "0.964262",
-				"cmd": "arrow_2"
+				"cmd": "a2"
 			},
 			{
 				"x": 40,
@@ -1184,6 +1132,12 @@
 		"name": "BumpKick",
 		"cmdImg": [
 			{
+				"x": 5,
+				"y": 8,
+				"ratio": "0.999501",
+				"cmd": "a1"
+			},
+			{
 				"x": 39,
 				"y": 6,
 				"ratio": "0.969886",
@@ -1197,6 +1151,12 @@
 		"cmdStr": "\"1\n",
 		"name": "GrassSnake",
 		"cmdImg": [
+			{
+				"x": 5,
+				"y": 8,
+				"ratio": "0.986498",
+				"cmd": "a1"
+			},
 			{
 				"x": 40,
 				"y": 6,
@@ -1212,10 +1172,10 @@
 		"name": "TripleFang",
 		"cmdImg": [
 			{
-				"x": 8,
-				"y": 7,
-				"ratio": "0.964530",
-				"cmd": "arrow_4"
+				"x": 6,
+				"y": 6,
+				"ratio": "0.984809",
+				"cmd": "a4-br"
 			},
 			{
 				"x": 39,
@@ -1244,10 +1204,10 @@
 		"name": "TripleFangCardinal",
 		"cmdImg": [
 			{
-				"x": 8,
-				"y": 7,
-				"ratio": "0.964863",
-				"cmd": "arrow_4"
+				"x": 6,
+				"y": 6,
+				"ratio": "0.980129",
+				"cmd": "a4-br"
 			},
 			{
 				"x": 39,
@@ -1266,18 +1226,6 @@
 				"y": 6,
 				"ratio": "0.968995",
 				"cmd": "rp"
-			},
-			{
-				"x": 147,
-				"y": 14,
-				"ratio": "0.993702",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 258,
-				"y": 13,
-				"ratio": "0.987310",
-				"cmd": "bracketRoundR"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_51.jpg"
@@ -1288,10 +1236,10 @@
 		"name": "DoubleFangCardinal",
 		"cmdImg": [
 			{
-				"x": 8,
-				"y": 7,
-				"ratio": "0.964695",
-				"cmd": "arrow_4"
+				"x": 6,
+				"y": 6,
+				"ratio": "0.983340",
+				"cmd": "a4-br"
 			},
 			{
 				"x": 39,
@@ -1304,18 +1252,6 @@
 				"y": 6,
 				"ratio": "0.975774",
 				"cmd": "ap"
-			},
-			{
-				"x": 112,
-				"y": 14,
-				"ratio": "0.996273",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 181,
-				"y": 13,
-				"ratio": "0.995875",
-				"cmd": "bracketRoundR"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_52.jpg"
@@ -1326,10 +1262,10 @@
 		"name": "RearCrossPunch",
 		"cmdImg": [
 			{
-				"x": 8,
-				"y": 7,
-				"ratio": "0.964217",
-				"cmd": "arrow_4"
+				"x": 6,
+				"y": 6,
+				"ratio": "0.984717",
+				"cmd": "a4-br"
 			},
 			{
 				"x": 40,
@@ -1346,10 +1282,10 @@
 		"name": "SuperHighCombination",
 		"cmdImg": [
 			{
-				"x": 8,
-				"y": 7,
-				"ratio": "0.965996",
-				"cmd": "arrow_4"
+				"x": 6,
+				"y": 6,
+				"ratio": "0.982562",
+				"cmd": "a4-br"
 			},
 			{
 				"x": 40,
@@ -1378,10 +1314,10 @@
 		"name": "StingingRush",
 		"cmdImg": [
 			{
-				"x": 8,
-				"y": 7,
-				"ratio": "0.969668",
-				"cmd": "arrow_4"
+				"x": 6,
+				"y": 6,
+				"ratio": "0.982175",
+				"cmd": "a4-br"
 			},
 			{
 				"x": 39,
@@ -1404,10 +1340,10 @@
 		"name": "SilverHeel",
 		"cmdImg": [
 			{
-				"x": 8,
-				"y": 7,
-				"ratio": "0.966328",
-				"cmd": "arrow_4"
+				"x": 6,
+				"y": 6,
+				"ratio": "0.984534",
+				"cmd": "a4-br"
 			},
 			{
 				"x": 40,
@@ -1424,10 +1360,10 @@
 		"name": "SilverRevolution",
 		"cmdImg": [
 			{
-				"x": 8,
-				"y": 7,
-				"ratio": "0.963424",
-				"cmd": "arrow_4"
+				"x": 6,
+				"y": 6,
+				"ratio": "0.985079",
+				"cmd": "a4-br"
 			},
 			{
 				"x": 40,
@@ -1447,7 +1383,7 @@
 				"x": 9,
 				"y": 10,
 				"ratio": "0.975321",
-				"cmd": "arrow_7"
+				"cmd": "a7"
 			},
 			{
 				"x": 39,
@@ -1463,6 +1399,12 @@
 		"cmdStr": "",
 		"name": "Fake",
 		"cmdImg": [
+			{
+				"x": 5,
+				"y": 6,
+				"ratio": "0.998519",
+				"cmd": "a8"
+			},
 			{
 				"x": 39,
 				"y": 6,
@@ -1481,7 +1423,7 @@
 				"x": 8,
 				"y": 9,
 				"ratio": "0.990047",
-				"cmd": "arrow_9"
+				"cmd": "a9"
 			},
 			{
 				"x": 39,
@@ -1507,7 +1449,7 @@
 				"x": 8,
 				"y": 9,
 				"ratio": "0.990502",
-				"cmd": "arrow_9"
+				"cmd": "a9"
 			},
 			{
 				"x": 39,
@@ -1533,7 +1475,7 @@
 				"x": 8,
 				"y": 9,
 				"ratio": "0.989082",
-				"cmd": "arrow_9"
+				"cmd": "a9"
 			},
 			{
 				"x": 40,
@@ -1553,7 +1495,7 @@
 				"x": 8,
 				"y": 9,
 				"ratio": "0.991314",
-				"cmd": "arrow_9"
+				"cmd": "a9"
 			},
 			{
 				"x": 40,
@@ -1573,7 +1515,13 @@
 				"x": 8,
 				"y": 9,
 				"ratio": "0.988839",
-				"cmd": "arrow_9"
+				"cmd": "a9"
+			},
+			{
+				"x": 40,
+				"y": 8,
+				"ratio": "0.999580",
+				"cmd": "n"
 			},
 			{
 				"x": 75,
@@ -1590,16 +1538,16 @@
 		"name": "JostleWolf",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.990157",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.991697",
+				"cmd": "a6"
 			},
 			{
 				"x": 40,
 				"y": 7,
-				"ratio": "0.984266",
-				"cmd": "arrow_6bold"
+				"ratio": "0.987970",
+				"cmd": "a6b"
 			},
 			{
 				"x": 75,
@@ -1616,34 +1564,22 @@
 		"name": "JostleWolfCardinal",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.990420",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.990712",
+				"cmd": "a6"
 			},
 			{
 				"x": 40,
 				"y": 7,
-				"ratio": "0.983591",
-				"cmd": "arrow_6bold"
+				"ratio": "0.983216",
+				"cmd": "a6b"
 			},
 			{
 				"x": 75,
 				"y": 6,
 				"ratio": "0.986626",
 				"cmd": "rp"
-			},
-			{
-				"x": 112,
-				"y": 14,
-				"ratio": "0.992906",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 223,
-				"y": 13,
-				"ratio": "0.997018",
-				"cmd": "bracketRoundR"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_66.jpg"
@@ -1654,16 +1590,16 @@
 		"name": "PulseBlast",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.990977",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.999513",
+				"cmd": "a6"
 			},
 			{
 				"x": 40,
 				"y": 7,
-				"ratio": "0.988566",
-				"cmd": "arrow_6bold"
+				"ratio": "0.999037",
+				"cmd": "a6b"
 			},
 			{
 				"x": 74,
@@ -1680,16 +1616,16 @@
 		"name": "DeadlyEdge",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.976536",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.978603",
+				"cmd": "a6"
 			},
 			{
 				"x": 40,
 				"y": 7,
-				"ratio": "0.971989",
-				"cmd": "arrow_6bold"
+				"ratio": "0.972482",
+				"cmd": "a6b"
 			},
 			{
 				"x": 75,
@@ -1709,7 +1645,13 @@
 				"x": 6,
 				"y": 7,
 				"ratio": "0.956985",
-				"cmd": "arrow_2"
+				"cmd": "a2"
+			},
+			{
+				"x": 41,
+				"y": 8,
+				"ratio": "0.999148",
+				"cmd": "a1b"
 			},
 			{
 				"x": 75,
@@ -1726,16 +1668,16 @@
 		"name": "LeeCutter",
 		"cmdImg": [
 			{
-				"x": 8,
-				"y": 7,
-				"ratio": "0.969534",
-				"cmd": "arrow_4"
+				"x": 6,
+				"y": 6,
+				"ratio": "0.985539",
+				"cmd": "a4-br"
 			},
 			{
 				"x": 41,
 				"y": 9,
 				"ratio": "0.970746",
-				"cmd": "arrow_4bold"
+				"cmd": "a4b"
 			},
 			{
 				"x": 75,
@@ -1752,22 +1694,22 @@
 		"name": "WaxingCrescent",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.991326",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.990898",
+				"cmd": "a6"
 			},
 			{
-				"x": 42,
-				"y": 7,
-				"ratio": "0.974565",
-				"cmd": "arrow_6"
+				"x": 40,
+				"y": 8,
+				"ratio": "0.969173",
+				"cmd": "a6"
 			},
 			{
 				"x": 75,
 				"y": 7,
-				"ratio": "0.987308",
-				"cmd": "arrow_6bold"
+				"ratio": "0.985506",
+				"cmd": "a6b"
 			},
 			{
 				"x": 109,
@@ -1793,7 +1735,7 @@
 				"x": 8,
 				"y": 10,
 				"ratio": "0.971385",
-				"cmd": "arrow_3"
+				"cmd": "a3"
 			},
 			{
 				"x": 39,
@@ -1867,13 +1809,13 @@
 				"x": 9,
 				"y": 10,
 				"ratio": "0.976671",
-				"cmd": "arrow_7"
+				"cmd": "a7"
 			},
 			{
 				"x": 42,
 				"y": 7,
 				"ratio": "0.989215",
-				"cmd": "arrow_4"
+				"cmd": "a4"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_73.jpg"
@@ -1884,10 +1826,10 @@
 		"name": "Taunt",
 		"cmdImg": [
 			{
-				"x": 5,
-				"y": 6,
-				"ratio": "0.929841",
-				"cmd": "apk"
+				"x": 4,
+				"y": 5,
+				"ratio": "0.999644",
+				"cmd": "akrp"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_74.jpg"
@@ -2004,6 +1946,12 @@
 				"cmd": "lk"
 			},
 			{
+				"x": 157,
+				"y": 6,
+				"ratio": "0.924711",
+				"cmd": "a2b"
+			},
+			{
 				"x": 192,
 				"y": 6,
 				"ratio": "0.978174",
@@ -2016,6 +1964,12 @@
 				"cmd": "lk"
 			},
 			{
+				"x": 262,
+				"y": 6,
+				"ratio": "0.923644",
+				"cmd": "a2b"
+			},
+			{
 				"x": 297,
 				"y": 6,
 				"ratio": "0.973229",
@@ -2026,6 +1980,12 @@
 				"y": 6,
 				"ratio": "0.971871",
 				"cmd": "lk"
+			},
+			{
+				"x": 367,
+				"y": 6,
+				"ratio": "0.967210",
+				"cmd": "a2b"
 			},
 			{
 				"x": 401,
@@ -2063,7 +2023,7 @@
 				"x": 160,
 				"y": 9,
 				"ratio": "0.979222",
-				"cmd": "arrow_3bold"
+				"cmd": "a3b"
 			},
 			{
 				"x": 192,
@@ -2078,6 +2038,12 @@
 				"cmd": "lk"
 			},
 			{
+				"x": 263,
+				"y": 8,
+				"ratio": "0.991106",
+				"cmd": "n"
+			},
+			{
 				"x": 297,
 				"y": 6,
 				"ratio": "0.982704",
@@ -2088,6 +2054,12 @@
 				"y": 6,
 				"ratio": "0.980290",
 				"cmd": "lk"
+			},
+			{
+				"x": 368,
+				"y": 8,
+				"ratio": "0.970396",
+				"cmd": "n"
 			},
 			{
 				"x": 401,
@@ -2127,7 +2099,7 @@
 				"x": 179,
 				"y": 10,
 				"ratio": "0.983090",
-				"cmd": "arrow_3"
+				"cmd": "a3"
 			},
 			{
 				"x": 211,
@@ -2144,6 +2116,12 @@
 		"name": "CatapultKick",
 		"cmdImg": [
 			{
+				"x": 178,
+				"y": 7,
+				"ratio": "0.998939",
+				"cmd": "a9b"
+			},
+			{
 				"x": 211,
 				"y": 6,
 				"ratio": "0.981013",
@@ -2157,6 +2135,12 @@
 		"cmdStr": "태에서\n\n}:\n\n0\n기\n자\n|\n",
 		"name": "CatapultDrop",
 		"cmdImg": [
+			{
+				"x": 178,
+				"y": 7,
+				"ratio": "0.972586",
+				"cmd": "a9b"
+			},
 			{
 				"x": 211,
 				"y": 6,
@@ -2175,19 +2159,19 @@
 				"x": 179,
 				"y": 10,
 				"ratio": "0.979721",
-				"cmd": "arrow_3"
+				"cmd": "a3"
 			},
 			{
 				"x": 211,
 				"y": 7,
 				"ratio": "0.993301",
-				"cmd": "arrow_2"
+				"cmd": "a2"
 			},
 			{
 				"x": 248,
 				"y": 9,
 				"ratio": "0.985706",
-				"cmd": "arrow_3bold"
+				"cmd": "a3b"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_86.jpg"
@@ -2198,28 +2182,28 @@
 		"name": "FrictionSpear",
 		"cmdImg": [
 			{
-				"x": 179,
-				"y": 10,
-				"ratio": "0.966999",
-				"cmd": "arrow_3"
+				"x": 178,
+				"y": 8,
+				"ratio": "0.977301",
+				"cmd": "a3-br"
 			},
 			{
 				"x": 211,
 				"y": 7,
-				"ratio": "0.983041",
-				"cmd": "arrow_2"
+				"ratio": "0.997098",
+				"cmd": "a2-br"
 			},
 			{
 				"x": 248,
 				"y": 9,
 				"ratio": "0.980738",
-				"cmd": "arrow_3bold"
+				"cmd": "a3b"
 			},
 			{
 				"x": 280,
 				"y": 6,
-				"ratio": "0.923804",
-				"cmd": "lk"
+				"ratio": "0.997796",
+				"cmd": "lk-br"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_87.jpg"
@@ -2233,19 +2217,19 @@
 				"x": 179,
 				"y": 10,
 				"ratio": "0.983917",
-				"cmd": "arrow_3"
+				"cmd": "a3"
 			},
 			{
 				"x": 211,
 				"y": 7,
 				"ratio": "0.992730",
-				"cmd": "arrow_2"
+				"cmd": "a2"
 			},
 			{
-				"x": 248,
-				"y": 10,
-				"ratio": "0.957775",
-				"cmd": "arrow_3"
+				"x": 247,
+				"y": 8,
+				"ratio": "0.981237",
+				"cmd": "a3-br"
 			},
 			{
 				"x": 280,
@@ -2254,28 +2238,16 @@
 				"cmd": "lk"
 			},
 			{
-				"x": 318,
-				"y": 14,
-				"ratio": "0.998076",
-				"cmd": "bracketRoundL"
-			},
-			{
-				"x": 331,
-				"y": 10,
-				"ratio": "0.947957",
-				"cmd": "arrow_3"
+				"x": 330,
+				"y": 8,
+				"ratio": "0.997103",
+				"cmd": "a3-br"
 			},
 			{
 				"x": 387,
 				"y": 6,
-				"ratio": "0.925542",
-				"cmd": "lk"
-			},
-			{
-				"x": 547,
-				"y": 13,
-				"ratio": "0.997014",
-				"cmd": "bracketRoundR"
+				"ratio": "0.997834",
+				"cmd": "lk-br"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_88.jpg"
@@ -2286,10 +2258,16 @@
 		"name": "MistStep",
 		"cmdImg": [
 			{
-				"x": 7,
-				"y": 7,
-				"ratio": "0.991385",
-				"cmd": "arrow_6"
+				"x": 5,
+				"y": 8,
+				"ratio": "0.992278",
+				"cmd": "a6"
+			},
+			{
+				"x": 40,
+				"y": 8,
+				"ratio": "0.991605",
+				"cmd": "n"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_89.jpg"
@@ -2334,10 +2312,16 @@
 		"name": "Sway",
 		"cmdImg": [
 			{
-				"x": 140,
-				"y": 7,
-				"ratio": "0.969556",
-				"cmd": "arrow_4"
+				"x": 138,
+				"y": 6,
+				"ratio": "0.985049",
+				"cmd": "a4-br"
+			},
+			{
+				"x": 172,
+				"y": 8,
+				"ratio": "0.992275",
+				"cmd": "n"
 			}
 		],
 		"crop/top": "result/crop/lee/lee_top_92.jpg"
@@ -2348,10 +2332,16 @@
 		"name": "AxeSweep",
 		"cmdImg": [
 			{
-				"x": 140,
-				"y": 7,
-				"ratio": "0.972354",
-				"cmd": "arrow_4"
+				"x": 138,
+				"y": 6,
+				"ratio": "0.987367",
+				"cmd": "a4-br"
+			},
+			{
+				"x": 172,
+				"y": 8,
+				"ratio": "0.990768",
+				"cmd": "n"
 			},
 			{
 				"x": 207,
